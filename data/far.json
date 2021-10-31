@@ -1,0 +1,5558 @@
+[
+  {
+    "name": "far fa-abacus"
+  },
+  {
+    "name": "far fa-acorn"
+  },
+  {
+    "name": "far fa-ad"
+  },
+  {
+    "name": "far fa-address-book"
+  },
+  {
+    "name": "far fa-address-card"
+  },
+  {
+    "name": "far fa-adjust"
+  },
+  {
+    "name": "far fa-air-conditioner"
+  },
+  {
+    "name": "far fa-air-freshener"
+  },
+  {
+    "name": "far fa-alarm-clock"
+  },
+  {
+    "name": "far fa-alarm-exclamation"
+  },
+  {
+    "name": "far fa-alarm-plus"
+  },
+  {
+    "name": "far fa-alarm-snooze"
+  },
+  {
+    "name": "far fa-album"
+  },
+  {
+    "name": "far fa-album-collection"
+  },
+  {
+    "name": "far fa-alicorn"
+  },
+  {
+    "name": "far fa-alien"
+  },
+  {
+    "name": "far fa-alien-monster"
+  },
+  {
+    "name": "far fa-align-center"
+  },
+  {
+    "name": "far fa-align-justify"
+  },
+  {
+    "name": "far fa-align-left"
+  },
+  {
+    "name": "far fa-align-right"
+  },
+  {
+    "name": "far fa-align-slash"
+  },
+  {
+    "name": "far fa-allergies"
+  },
+  {
+    "name": "far fa-ambulance"
+  },
+  {
+    "name": "far fa-american-sign-language-interpreting"
+  },
+  {
+    "name": "far fa-amp-guitar"
+  },
+  {
+    "name": "far fa-analytics"
+  },
+  {
+    "name": "far fa-anchor"
+  },
+  {
+    "name": "far fa-angel"
+  },
+  {
+    "name": "far fa-angle-double-down"
+  },
+  {
+    "name": "far fa-angle-double-left"
+  },
+  {
+    "name": "far fa-angle-double-right"
+  },
+  {
+    "name": "far fa-angle-double-up"
+  },
+  {
+    "name": "far fa-angle-down"
+  },
+  {
+    "name": "far fa-angle-left"
+  },
+  {
+    "name": "far fa-angle-right"
+  },
+  {
+    "name": "far fa-angle-up"
+  },
+  {
+    "name": "far fa-angry"
+  },
+  {
+    "name": "far fa-ankh"
+  },
+  {
+    "name": "far fa-apple-alt"
+  },
+  {
+    "name": "far fa-apple-crate"
+  },
+  {
+    "name": "far fa-archive"
+  },
+  {
+    "name": "far fa-archway"
+  },
+  {
+    "name": "far fa-arrow-alt-circle-down"
+  },
+  {
+    "name": "far fa-arrow-alt-circle-left"
+  },
+  {
+    "name": "far fa-arrow-alt-circle-right"
+  },
+  {
+    "name": "far fa-arrow-alt-circle-up"
+  },
+  {
+    "name": "far fa-arrow-alt-down"
+  },
+  {
+    "name": "far fa-arrow-alt-from-bottom"
+  },
+  {
+    "name": "far fa-arrow-alt-from-left"
+  },
+  {
+    "name": "far fa-arrow-alt-from-right"
+  },
+  {
+    "name": "far fa-arrow-alt-from-top"
+  },
+  {
+    "name": "far fa-arrow-alt-left"
+  },
+  {
+    "name": "far fa-arrow-alt-right"
+  },
+  {
+    "name": "far fa-arrow-alt-square-down"
+  },
+  {
+    "name": "far fa-arrow-alt-square-left"
+  },
+  {
+    "name": "far fa-arrow-alt-square-right"
+  },
+  {
+    "name": "far fa-arrow-alt-square-up"
+  },
+  {
+    "name": "far fa-arrow-alt-to-bottom"
+  },
+  {
+    "name": "far fa-arrow-alt-to-left"
+  },
+  {
+    "name": "far fa-arrow-alt-to-right"
+  },
+  {
+    "name": "far fa-arrow-alt-to-top"
+  },
+  {
+    "name": "far fa-arrow-alt-up"
+  },
+  {
+    "name": "far fa-arrow-circle-down"
+  },
+  {
+    "name": "far fa-arrow-circle-left"
+  },
+  {
+    "name": "far fa-arrow-circle-right"
+  },
+  {
+    "name": "far fa-arrow-circle-up"
+  },
+  {
+    "name": "far fa-arrow-down"
+  },
+  {
+    "name": "far fa-arrow-from-bottom"
+  },
+  {
+    "name": "far fa-arrow-from-left"
+  },
+  {
+    "name": "far fa-arrow-from-right"
+  },
+  {
+    "name": "far fa-arrow-from-top"
+  },
+  {
+    "name": "far fa-arrow-left"
+  },
+  {
+    "name": "far fa-arrow-right"
+  },
+  {
+    "name": "far fa-arrow-square-down"
+  },
+  {
+    "name": "far fa-arrow-square-left"
+  },
+  {
+    "name": "far fa-arrow-square-right"
+  },
+  {
+    "name": "far fa-arrow-square-up"
+  },
+  {
+    "name": "far fa-arrow-to-bottom"
+  },
+  {
+    "name": "far fa-arrow-to-left"
+  },
+  {
+    "name": "far fa-arrow-to-right"
+  },
+  {
+    "name": "far fa-arrow-to-top"
+  },
+  {
+    "name": "far fa-arrow-up"
+  },
+  {
+    "name": "far fa-arrows"
+  },
+  {
+    "name": "far fa-arrows-alt"
+  },
+  {
+    "name": "far fa-arrows-alt-h"
+  },
+  {
+    "name": "far fa-arrows-alt-v"
+  },
+  {
+    "name": "far fa-arrows-h"
+  },
+  {
+    "name": "far fa-arrows-v"
+  },
+  {
+    "name": "far fa-assistive-listening-systems"
+  },
+  {
+    "name": "far fa-asterisk"
+  },
+  {
+    "name": "far fa-at"
+  },
+  {
+    "name": "far fa-atlas"
+  },
+  {
+    "name": "far fa-atom"
+  },
+  {
+    "name": "far fa-atom-alt"
+  },
+  {
+    "name": "far fa-audio-description"
+  },
+  {
+    "name": "far fa-award"
+  },
+  {
+    "name": "far fa-axe"
+  },
+  {
+    "name": "far fa-axe-battle"
+  },
+  {
+    "name": "far fa-baby"
+  },
+  {
+    "name": "far fa-baby-carriage"
+  },
+  {
+    "name": "far fa-backpack"
+  },
+  {
+    "name": "far fa-backspace"
+  },
+  {
+    "name": "far fa-backward"
+  },
+  {
+    "name": "far fa-bacon"
+  },
+  {
+    "name": "far fa-bacteria"
+  },
+  {
+    "name": "far fa-bacterium"
+  },
+  {
+    "name": "far fa-badge"
+  },
+  {
+    "name": "far fa-badge-check"
+  },
+  {
+    "name": "far fa-badge-dollar"
+  },
+  {
+    "name": "far fa-badge-percent"
+  },
+  {
+    "name": "far fa-badge-sheriff"
+  },
+  {
+    "name": "far fa-badger-honey"
+  },
+  {
+    "name": "far fa-bags-shopping"
+  },
+  {
+    "name": "far fa-bahai"
+  },
+  {
+    "name": "far fa-balance-scale"
+  },
+  {
+    "name": "far fa-balance-scale-left"
+  },
+  {
+    "name": "far fa-balance-scale-right"
+  },
+  {
+    "name": "far fa-ball-pile"
+  },
+  {
+    "name": "far fa-ballot"
+  },
+  {
+    "name": "far fa-ballot-check"
+  },
+  {
+    "name": "far fa-ban"
+  },
+  {
+    "name": "far fa-band-aid"
+  },
+  {
+    "name": "far fa-banjo"
+  },
+  {
+    "name": "far fa-barcode"
+  },
+  {
+    "name": "far fa-barcode-alt"
+  },
+  {
+    "name": "far fa-barcode-read"
+  },
+  {
+    "name": "far fa-barcode-scan"
+  },
+  {
+    "name": "far fa-bars"
+  },
+  {
+    "name": "far fa-baseball"
+  },
+  {
+    "name": "far fa-baseball-ball"
+  },
+  {
+    "name": "far fa-basketball-ball"
+  },
+  {
+    "name": "far fa-basketball-hoop"
+  },
+  {
+    "name": "far fa-bat"
+  },
+  {
+    "name": "far fa-bath"
+  },
+  {
+    "name": "far fa-battery-bolt"
+  },
+  {
+    "name": "far fa-battery-empty"
+  },
+  {
+    "name": "far fa-battery-full"
+  },
+  {
+    "name": "far fa-battery-half"
+  },
+  {
+    "name": "far fa-battery-quarter"
+  },
+  {
+    "name": "far fa-battery-slash"
+  },
+  {
+    "name": "far fa-battery-three-quarters"
+  },
+  {
+    "name": "far fa-bed"
+  },
+  {
+    "name": "far fa-bed-alt"
+  },
+  {
+    "name": "far fa-bed-bunk"
+  },
+  {
+    "name": "far fa-bed-empty"
+  },
+  {
+    "name": "far fa-beer"
+  },
+  {
+    "name": "far fa-bell"
+  },
+  {
+    "name": "far fa-bell-exclamation"
+  },
+  {
+    "name": "far fa-bell-on"
+  },
+  {
+    "name": "far fa-bell-plus"
+  },
+  {
+    "name": "far fa-bell-school"
+  },
+  {
+    "name": "far fa-bell-school-slash"
+  },
+  {
+    "name": "far fa-bell-slash"
+  },
+  {
+    "name": "far fa-bells"
+  },
+  {
+    "name": "far fa-betamax"
+  },
+  {
+    "name": "far fa-bezier-curve"
+  },
+  {
+    "name": "far fa-bible"
+  },
+  {
+    "name": "far fa-bicycle"
+  },
+  {
+    "name": "far fa-biking"
+  },
+  {
+    "name": "far fa-biking-mountain"
+  },
+  {
+    "name": "far fa-binoculars"
+  },
+  {
+    "name": "far fa-biohazard"
+  },
+  {
+    "name": "far fa-birthday-cake"
+  },
+  {
+    "name": "far fa-blanket"
+  },
+  {
+    "name": "far fa-blender"
+  },
+  {
+    "name": "far fa-blender-phone"
+  },
+  {
+    "name": "far fa-blind"
+  },
+  {
+    "name": "far fa-blinds"
+  },
+  {
+    "name": "far fa-blinds-open"
+  },
+  {
+    "name": "far fa-blinds-raised"
+  },
+  {
+    "name": "far fa-blog"
+  },
+  {
+    "name": "far fa-bold"
+  },
+  {
+    "name": "far fa-bolt"
+  },
+  {
+    "name": "far fa-bomb"
+  },
+  {
+    "name": "far fa-bone"
+  },
+  {
+    "name": "far fa-bone-break"
+  },
+  {
+    "name": "far fa-bong"
+  },
+  {
+    "name": "far fa-book"
+  },
+  {
+    "name": "far fa-book-alt"
+  },
+  {
+    "name": "far fa-book-dead"
+  },
+  {
+    "name": "far fa-book-heart"
+  },
+  {
+    "name": "far fa-book-medical"
+  },
+  {
+    "name": "far fa-book-open"
+  },
+  {
+    "name": "far fa-book-reader"
+  },
+  {
+    "name": "far fa-book-spells"
+  },
+  {
+    "name": "far fa-book-user"
+  },
+  {
+    "name": "far fa-bookmark"
+  },
+  {
+    "name": "far fa-books"
+  },
+  {
+    "name": "far fa-books-medical"
+  },
+  {
+    "name": "far fa-boombox"
+  },
+  {
+    "name": "far fa-boot"
+  },
+  {
+    "name": "far fa-booth-curtain"
+  },
+  {
+    "name": "far fa-border-all"
+  },
+  {
+    "name": "far fa-border-bottom"
+  },
+  {
+    "name": "far fa-border-center-h"
+  },
+  {
+    "name": "far fa-border-center-v"
+  },
+  {
+    "name": "far fa-border-inner"
+  },
+  {
+    "name": "far fa-border-left"
+  },
+  {
+    "name": "far fa-border-none"
+  },
+  {
+    "name": "far fa-border-outer"
+  },
+  {
+    "name": "far fa-border-right"
+  },
+  {
+    "name": "far fa-border-style"
+  },
+  {
+    "name": "far fa-border-style-alt"
+  },
+  {
+    "name": "far fa-border-top"
+  },
+  {
+    "name": "far fa-bow-arrow"
+  },
+  {
+    "name": "far fa-bowling-ball"
+  },
+  {
+    "name": "far fa-bowling-pins"
+  },
+  {
+    "name": "far fa-box"
+  },
+  {
+    "name": "far fa-box-alt"
+  },
+  {
+    "name": "far fa-box-ballot"
+  },
+  {
+    "name": "far fa-box-check"
+  },
+  {
+    "name": "far fa-box-fragile"
+  },
+  {
+    "name": "far fa-box-full"
+  },
+  {
+    "name": "far fa-box-heart"
+  },
+  {
+    "name": "far fa-box-open"
+  },
+  {
+    "name": "far fa-box-tissue"
+  },
+  {
+    "name": "far fa-box-up"
+  },
+  {
+    "name": "far fa-box-usd"
+  },
+  {
+    "name": "far fa-boxes"
+  },
+  {
+    "name": "far fa-boxes-alt"
+  },
+  {
+    "name": "far fa-boxing-glove"
+  },
+  {
+    "name": "far fa-brackets"
+  },
+  {
+    "name": "far fa-brackets-curly"
+  },
+  {
+    "name": "far fa-braille"
+  },
+  {
+    "name": "far fa-brain"
+  },
+  {
+    "name": "far fa-bread-loaf"
+  },
+  {
+    "name": "far fa-bread-slice"
+  },
+  {
+    "name": "far fa-briefcase"
+  },
+  {
+    "name": "far fa-briefcase-medical"
+  },
+  {
+    "name": "far fa-bring-forward"
+  },
+  {
+    "name": "far fa-bring-front"
+  },
+  {
+    "name": "far fa-broadcast-tower"
+  },
+  {
+    "name": "far fa-broom"
+  },
+  {
+    "name": "far fa-browser"
+  },
+  {
+    "name": "far fa-brush"
+  },
+  {
+    "name": "far fa-bug"
+  },
+  {
+    "name": "far fa-building"
+  },
+  {
+    "name": "far fa-bullhorn"
+  },
+  {
+    "name": "far fa-bullseye"
+  },
+  {
+    "name": "far fa-bullseye-arrow"
+  },
+  {
+    "name": "far fa-bullseye-pointer"
+  },
+  {
+    "name": "far fa-burger-soda"
+  },
+  {
+    "name": "far fa-burn"
+  },
+  {
+    "name": "far fa-burrito"
+  },
+  {
+    "name": "far fa-bus"
+  },
+  {
+    "name": "far fa-bus-alt"
+  },
+  {
+    "name": "far fa-bus-school"
+  },
+  {
+    "name": "far fa-business-time"
+  },
+  {
+    "name": "far fa-cabinet-filing"
+  },
+  {
+    "name": "far fa-cactus"
+  },
+  {
+    "name": "far fa-calculator"
+  },
+  {
+    "name": "far fa-calculator-alt"
+  },
+  {
+    "name": "far fa-calendar"
+  },
+  {
+    "name": "far fa-calendar-alt"
+  },
+  {
+    "name": "far fa-calendar-check"
+  },
+  {
+    "name": "far fa-calendar-day"
+  },
+  {
+    "name": "far fa-calendar-edit"
+  },
+  {
+    "name": "far fa-calendar-exclamation"
+  },
+  {
+    "name": "far fa-calendar-minus"
+  },
+  {
+    "name": "far fa-calendar-plus"
+  },
+  {
+    "name": "far fa-calendar-star"
+  },
+  {
+    "name": "far fa-calendar-times"
+  },
+  {
+    "name": "far fa-calendar-week"
+  },
+  {
+    "name": "far fa-camcorder"
+  },
+  {
+    "name": "far fa-camera"
+  },
+  {
+    "name": "far fa-camera-alt"
+  },
+  {
+    "name": "far fa-camera-home"
+  },
+  {
+    "name": "far fa-camera-movie"
+  },
+  {
+    "name": "far fa-camera-polaroid"
+  },
+  {
+    "name": "far fa-camera-retro"
+  },
+  {
+    "name": "far fa-campfire"
+  },
+  {
+    "name": "far fa-campground"
+  },
+  {
+    "name": "far fa-candle-holder"
+  },
+  {
+    "name": "far fa-candy-cane"
+  },
+  {
+    "name": "far fa-candy-corn"
+  },
+  {
+    "name": "far fa-cannabis"
+  },
+  {
+    "name": "far fa-capsules"
+  },
+  {
+    "name": "far fa-car"
+  },
+  {
+    "name": "far fa-car-alt"
+  },
+  {
+    "name": "far fa-car-battery"
+  },
+  {
+    "name": "far fa-car-building"
+  },
+  {
+    "name": "far fa-car-bump"
+  },
+  {
+    "name": "far fa-car-bus"
+  },
+  {
+    "name": "far fa-car-crash"
+  },
+  {
+    "name": "far fa-car-garage"
+  },
+  {
+    "name": "far fa-car-mechanic"
+  },
+  {
+    "name": "far fa-car-side"
+  },
+  {
+    "name": "far fa-car-tilt"
+  },
+  {
+    "name": "far fa-car-wash"
+  },
+  {
+    "name": "far fa-caravan"
+  },
+  {
+    "name": "far fa-caravan-alt"
+  },
+  {
+    "name": "far fa-caret-circle-down"
+  },
+  {
+    "name": "far fa-caret-circle-left"
+  },
+  {
+    "name": "far fa-caret-circle-right"
+  },
+  {
+    "name": "far fa-caret-circle-up"
+  },
+  {
+    "name": "far fa-caret-down"
+  },
+  {
+    "name": "far fa-caret-left"
+  },
+  {
+    "name": "far fa-caret-right"
+  },
+  {
+    "name": "far fa-caret-square-down"
+  },
+  {
+    "name": "far fa-caret-square-left"
+  },
+  {
+    "name": "far fa-caret-square-right"
+  },
+  {
+    "name": "far fa-caret-square-up"
+  },
+  {
+    "name": "far fa-caret-up"
+  },
+  {
+    "name": "far fa-carrot"
+  },
+  {
+    "name": "far fa-cars"
+  },
+  {
+    "name": "far fa-cart-arrow-down"
+  },
+  {
+    "name": "far fa-cart-plus"
+  },
+  {
+    "name": "far fa-cash-register"
+  },
+  {
+    "name": "far fa-cassette-tape"
+  },
+  {
+    "name": "far fa-cat"
+  },
+  {
+    "name": "far fa-cat-space"
+  },
+  {
+    "name": "far fa-cauldron"
+  },
+  {
+    "name": "far fa-cctv"
+  },
+  {
+    "name": "far fa-certificate"
+  },
+  {
+    "name": "far fa-chair"
+  },
+  {
+    "name": "far fa-chair-office"
+  },
+  {
+    "name": "far fa-chalkboard"
+  },
+  {
+    "name": "far fa-chalkboard-teacher"
+  },
+  {
+    "name": "far fa-charging-station"
+  },
+  {
+    "name": "far fa-chart-area"
+  },
+  {
+    "name": "far fa-chart-bar"
+  },
+  {
+    "name": "far fa-chart-line"
+  },
+  {
+    "name": "far fa-chart-line-down"
+  },
+  {
+    "name": "far fa-chart-network"
+  },
+  {
+    "name": "far fa-chart-pie"
+  },
+  {
+    "name": "far fa-chart-pie-alt"
+  },
+  {
+    "name": "far fa-chart-scatter"
+  },
+  {
+    "name": "far fa-check"
+  },
+  {
+    "name": "far fa-check-circle"
+  },
+  {
+    "name": "far fa-check-double"
+  },
+  {
+    "name": "far fa-check-square"
+  },
+  {
+    "name": "far fa-cheese"
+  },
+  {
+    "name": "far fa-cheese-swiss"
+  },
+  {
+    "name": "far fa-cheeseburger"
+  },
+  {
+    "name": "far fa-chess"
+  },
+  {
+    "name": "far fa-chess-bishop"
+  },
+  {
+    "name": "far fa-chess-bishop-alt"
+  },
+  {
+    "name": "far fa-chess-board"
+  },
+  {
+    "name": "far fa-chess-clock"
+  },
+  {
+    "name": "far fa-chess-clock-alt"
+  },
+  {
+    "name": "far fa-chess-king"
+  },
+  {
+    "name": "far fa-chess-king-alt"
+  },
+  {
+    "name": "far fa-chess-knight"
+  },
+  {
+    "name": "far fa-chess-knight-alt"
+  },
+  {
+    "name": "far fa-chess-pawn"
+  },
+  {
+    "name": "far fa-chess-pawn-alt"
+  },
+  {
+    "name": "far fa-chess-queen"
+  },
+  {
+    "name": "far fa-chess-queen-alt"
+  },
+  {
+    "name": "far fa-chess-rook"
+  },
+  {
+    "name": "far fa-chess-rook-alt"
+  },
+  {
+    "name": "far fa-chevron-circle-down"
+  },
+  {
+    "name": "far fa-chevron-circle-left"
+  },
+  {
+    "name": "far fa-chevron-circle-right"
+  },
+  {
+    "name": "far fa-chevron-circle-up"
+  },
+  {
+    "name": "far fa-chevron-double-down"
+  },
+  {
+    "name": "far fa-chevron-double-left"
+  },
+  {
+    "name": "far fa-chevron-double-right"
+  },
+  {
+    "name": "far fa-chevron-double-up"
+  },
+  {
+    "name": "far fa-chevron-down"
+  },
+  {
+    "name": "far fa-chevron-left"
+  },
+  {
+    "name": "far fa-chevron-right"
+  },
+  {
+    "name": "far fa-chevron-square-down"
+  },
+  {
+    "name": "far fa-chevron-square-left"
+  },
+  {
+    "name": "far fa-chevron-square-right"
+  },
+  {
+    "name": "far fa-chevron-square-up"
+  },
+  {
+    "name": "far fa-chevron-up"
+  },
+  {
+    "name": "far fa-child"
+  },
+  {
+    "name": "far fa-chimney"
+  },
+  {
+    "name": "far fa-church"
+  },
+  {
+    "name": "far fa-circle"
+  },
+  {
+    "name": "far fa-circle-notch"
+  },
+  {
+    "name": "far fa-city"
+  },
+  {
+    "name": "far fa-clarinet"
+  },
+  {
+    "name": "far fa-claw-marks"
+  },
+  {
+    "name": "far fa-clinic-medical"
+  },
+  {
+    "name": "far fa-clipboard"
+  },
+  {
+    "name": "far fa-clipboard-check"
+  },
+  {
+    "name": "far fa-clipboard-list"
+  },
+  {
+    "name": "far fa-clipboard-list-check"
+  },
+  {
+    "name": "far fa-clipboard-prescription"
+  },
+  {
+    "name": "far fa-clipboard-user"
+  },
+  {
+    "name": "far fa-clock"
+  },
+  {
+    "name": "far fa-clone"
+  },
+  {
+    "name": "far fa-closed-captioning"
+  },
+  {
+    "name": "far fa-cloud"
+  },
+  {
+    "name": "far fa-cloud-download"
+  },
+  {
+    "name": "far fa-cloud-download-alt"
+  },
+  {
+    "name": "far fa-cloud-drizzle"
+  },
+  {
+    "name": "far fa-cloud-hail"
+  },
+  {
+    "name": "far fa-cloud-hail-mixed"
+  },
+  {
+    "name": "far fa-cloud-meatball"
+  },
+  {
+    "name": "far fa-cloud-moon"
+  },
+  {
+    "name": "far fa-cloud-moon-rain"
+  },
+  {
+    "name": "far fa-cloud-music"
+  },
+  {
+    "name": "far fa-cloud-rain"
+  },
+  {
+    "name": "far fa-cloud-rainbow"
+  },
+  {
+    "name": "far fa-cloud-showers"
+  },
+  {
+    "name": "far fa-cloud-showers-heavy"
+  },
+  {
+    "name": "far fa-cloud-sleet"
+  },
+  {
+    "name": "far fa-cloud-snow"
+  },
+  {
+    "name": "far fa-cloud-sun"
+  },
+  {
+    "name": "far fa-cloud-sun-rain"
+  },
+  {
+    "name": "far fa-cloud-upload"
+  },
+  {
+    "name": "far fa-cloud-upload-alt"
+  },
+  {
+    "name": "far fa-clouds"
+  },
+  {
+    "name": "far fa-clouds-moon"
+  },
+  {
+    "name": "far fa-clouds-sun"
+  },
+  {
+    "name": "far fa-club"
+  },
+  {
+    "name": "far fa-cocktail"
+  },
+  {
+    "name": "far fa-code"
+  },
+  {
+    "name": "far fa-code-branch"
+  },
+  {
+    "name": "far fa-code-commit"
+  },
+  {
+    "name": "far fa-code-merge"
+  },
+  {
+    "name": "far fa-coffee"
+  },
+  {
+    "name": "far fa-coffee-pot"
+  },
+  {
+    "name": "far fa-coffee-togo"
+  },
+  {
+    "name": "far fa-coffin"
+  },
+  {
+    "name": "far fa-coffin-cross"
+  },
+  {
+    "name": "far fa-cog"
+  },
+  {
+    "name": "far fa-cogs"
+  },
+  {
+    "name": "far fa-coin"
+  },
+  {
+    "name": "far fa-coins"
+  },
+  {
+    "name": "far fa-columns"
+  },
+  {
+    "name": "far fa-comet"
+  },
+  {
+    "name": "far fa-comment"
+  },
+  {
+    "name": "far fa-comment-alt"
+  },
+  {
+    "name": "far fa-comment-alt-check"
+  },
+  {
+    "name": "far fa-comment-alt-dollar"
+  },
+  {
+    "name": "far fa-comment-alt-dots"
+  },
+  {
+    "name": "far fa-comment-alt-edit"
+  },
+  {
+    "name": "far fa-comment-alt-exclamation"
+  },
+  {
+    "name": "far fa-comment-alt-lines"
+  },
+  {
+    "name": "far fa-comment-alt-medical"
+  },
+  {
+    "name": "far fa-comment-alt-minus"
+  },
+  {
+    "name": "far fa-comment-alt-music"
+  },
+  {
+    "name": "far fa-comment-alt-plus"
+  },
+  {
+    "name": "far fa-comment-alt-slash"
+  },
+  {
+    "name": "far fa-comment-alt-smile"
+  },
+  {
+    "name": "far fa-comment-alt-times"
+  },
+  {
+    "name": "far fa-comment-check"
+  },
+  {
+    "name": "far fa-comment-dollar"
+  },
+  {
+    "name": "far fa-comment-dots"
+  },
+  {
+    "name": "far fa-comment-edit"
+  },
+  {
+    "name": "far fa-comment-exclamation"
+  },
+  {
+    "name": "far fa-comment-lines"
+  },
+  {
+    "name": "far fa-comment-medical"
+  },
+  {
+    "name": "far fa-comment-minus"
+  },
+  {
+    "name": "far fa-comment-music"
+  },
+  {
+    "name": "far fa-comment-plus"
+  },
+  {
+    "name": "far fa-comment-slash"
+  },
+  {
+    "name": "far fa-comment-smile"
+  },
+  {
+    "name": "far fa-comment-times"
+  },
+  {
+    "name": "far fa-comments"
+  },
+  {
+    "name": "far fa-comments-alt"
+  },
+  {
+    "name": "far fa-comments-alt-dollar"
+  },
+  {
+    "name": "far fa-comments-dollar"
+  },
+  {
+    "name": "far fa-compact-disc"
+  },
+  {
+    "name": "far fa-compass"
+  },
+  {
+    "name": "far fa-compass-slash"
+  },
+  {
+    "name": "far fa-compress"
+  },
+  {
+    "name": "far fa-compress-alt"
+  },
+  {
+    "name": "far fa-compress-arrows-alt"
+  },
+  {
+    "name": "far fa-compress-wide"
+  },
+  {
+    "name": "far fa-computer-classic"
+  },
+  {
+    "name": "far fa-computer-speaker"
+  },
+  {
+    "name": "far fa-concierge-bell"
+  },
+  {
+    "name": "far fa-construction"
+  },
+  {
+    "name": "far fa-container-storage"
+  },
+  {
+    "name": "far fa-conveyor-belt"
+  },
+  {
+    "name": "far fa-conveyor-belt-alt"
+  },
+  {
+    "name": "far fa-cookie"
+  },
+  {
+    "name": "far fa-cookie-bite"
+  },
+  {
+    "name": "far fa-copy"
+  },
+  {
+    "name": "far fa-copyright"
+  },
+  {
+    "name": "far fa-corn"
+  },
+  {
+    "name": "far fa-couch"
+  },
+  {
+    "name": "far fa-cow"
+  },
+  {
+    "name": "far fa-cowbell"
+  },
+  {
+    "name": "far fa-cowbell-more"
+  },
+  {
+    "name": "far fa-credit-card"
+  },
+  {
+    "name": "far fa-credit-card-blank"
+  },
+  {
+    "name": "far fa-credit-card-front"
+  },
+  {
+    "name": "far fa-cricket"
+  },
+  {
+    "name": "far fa-croissant"
+  },
+  {
+    "name": "far fa-crop"
+  },
+  {
+    "name": "far fa-crop-alt"
+  },
+  {
+    "name": "far fa-cross"
+  },
+  {
+    "name": "far fa-crosshairs"
+  },
+  {
+    "name": "far fa-crow"
+  },
+  {
+    "name": "far fa-crown"
+  },
+  {
+    "name": "far fa-crutch"
+  },
+  {
+    "name": "far fa-crutches"
+  },
+  {
+    "name": "far fa-cube"
+  },
+  {
+    "name": "far fa-cubes"
+  },
+  {
+    "name": "far fa-curling"
+  },
+  {
+    "name": "far fa-cut"
+  },
+  {
+    "name": "far fa-dagger"
+  },
+  {
+    "name": "far fa-database"
+  },
+  {
+    "name": "far fa-deaf"
+  },
+  {
+    "name": "far fa-debug"
+  },
+  {
+    "name": "far fa-deer"
+  },
+  {
+    "name": "far fa-deer-rudolph"
+  },
+  {
+    "name": "far fa-democrat"
+  },
+  {
+    "name": "far fa-desktop"
+  },
+  {
+    "name": "far fa-desktop-alt"
+  },
+  {
+    "name": "far fa-dewpoint"
+  },
+  {
+    "name": "far fa-dharmachakra"
+  },
+  {
+    "name": "far fa-diagnoses"
+  },
+  {
+    "name": "far fa-diamond"
+  },
+  {
+    "name": "far fa-dice"
+  },
+  {
+    "name": "far fa-dice-d10"
+  },
+  {
+    "name": "far fa-dice-d12"
+  },
+  {
+    "name": "far fa-dice-d20"
+  },
+  {
+    "name": "far fa-dice-d4"
+  },
+  {
+    "name": "far fa-dice-d6"
+  },
+  {
+    "name": "far fa-dice-d8"
+  },
+  {
+    "name": "far fa-dice-five"
+  },
+  {
+    "name": "far fa-dice-four"
+  },
+  {
+    "name": "far fa-dice-one"
+  },
+  {
+    "name": "far fa-dice-six"
+  },
+  {
+    "name": "far fa-dice-three"
+  },
+  {
+    "name": "far fa-dice-two"
+  },
+  {
+    "name": "far fa-digging"
+  },
+  {
+    "name": "far fa-digital-tachograph"
+  },
+  {
+    "name": "far fa-diploma"
+  },
+  {
+    "name": "far fa-directions"
+  },
+  {
+    "name": "far fa-disc-drive"
+  },
+  {
+    "name": "far fa-disease"
+  },
+  {
+    "name": "far fa-divide"
+  },
+  {
+    "name": "far fa-dizzy"
+  },
+  {
+    "name": "far fa-dna"
+  },
+  {
+    "name": "far fa-do-not-enter"
+  },
+  {
+    "name": "far fa-dog"
+  },
+  {
+    "name": "far fa-dog-leashed"
+  },
+  {
+    "name": "far fa-dollar-sign"
+  },
+  {
+    "name": "far fa-dolly"
+  },
+  {
+    "name": "far fa-dolly-empty"
+  },
+  {
+    "name": "far fa-dolly-flatbed"
+  },
+  {
+    "name": "far fa-dolly-flatbed-alt"
+  },
+  {
+    "name": "far fa-dolly-flatbed-empty"
+  },
+  {
+    "name": "far fa-donate"
+  },
+  {
+    "name": "far fa-door-closed"
+  },
+  {
+    "name": "far fa-door-open"
+  },
+  {
+    "name": "far fa-dot-circle"
+  },
+  {
+    "name": "far fa-dove"
+  },
+  {
+    "name": "far fa-download"
+  },
+  {
+    "name": "far fa-drafting-compass"
+  },
+  {
+    "name": "far fa-dragon"
+  },
+  {
+    "name": "far fa-draw-circle"
+  },
+  {
+    "name": "far fa-draw-polygon"
+  },
+  {
+    "name": "far fa-draw-square"
+  },
+  {
+    "name": "far fa-dreidel"
+  },
+  {
+    "name": "far fa-drone"
+  },
+  {
+    "name": "far fa-drone-alt"
+  },
+  {
+    "name": "far fa-drum"
+  },
+  {
+    "name": "far fa-drum-steelpan"
+  },
+  {
+    "name": "far fa-drumstick"
+  },
+  {
+    "name": "far fa-drumstick-bite"
+  },
+  {
+    "name": "far fa-dryer"
+  },
+  {
+    "name": "far fa-dryer-alt"
+  },
+  {
+    "name": "far fa-duck"
+  },
+  {
+    "name": "far fa-dumbbell"
+  },
+  {
+    "name": "far fa-dumpster"
+  },
+  {
+    "name": "far fa-dumpster-fire"
+  },
+  {
+    "name": "far fa-dungeon"
+  },
+  {
+    "name": "far fa-ear"
+  },
+  {
+    "name": "far fa-ear-muffs"
+  },
+  {
+    "name": "far fa-eclipse"
+  },
+  {
+    "name": "far fa-eclipse-alt"
+  },
+  {
+    "name": "far fa-edit"
+  },
+  {
+    "name": "far fa-egg"
+  },
+  {
+    "name": "far fa-egg-fried"
+  },
+  {
+    "name": "far fa-eject"
+  },
+  {
+    "name": "far fa-elephant"
+  },
+  {
+    "name": "far fa-ellipsis-h"
+  },
+  {
+    "name": "far fa-ellipsis-h-alt"
+  },
+  {
+    "name": "far fa-ellipsis-v"
+  },
+  {
+    "name": "far fa-ellipsis-v-alt"
+  },
+  {
+    "name": "far fa-empty-set"
+  },
+  {
+    "name": "far fa-engine-warning"
+  },
+  {
+    "name": "far fa-envelope"
+  },
+  {
+    "name": "far fa-envelope-open"
+  },
+  {
+    "name": "far fa-envelope-open-dollar"
+  },
+  {
+    "name": "far fa-envelope-open-text"
+  },
+  {
+    "name": "far fa-envelope-square"
+  },
+  {
+    "name": "far fa-equals"
+  },
+  {
+    "name": "far fa-eraser"
+  },
+  {
+    "name": "far fa-ethernet"
+  },
+  {
+    "name": "far fa-euro-sign"
+  },
+  {
+    "name": "far fa-exchange"
+  },
+  {
+    "name": "far fa-exchange-alt"
+  },
+  {
+    "name": "far fa-exclamation"
+  },
+  {
+    "name": "far fa-exclamation-circle"
+  },
+  {
+    "name": "far fa-exclamation-square"
+  },
+  {
+    "name": "far fa-exclamation-triangle"
+  },
+  {
+    "name": "far fa-expand"
+  },
+  {
+    "name": "far fa-expand-alt"
+  },
+  {
+    "name": "far fa-expand-arrows"
+  },
+  {
+    "name": "far fa-expand-arrows-alt"
+  },
+  {
+    "name": "far fa-expand-wide"
+  },
+  {
+    "name": "far fa-external-link"
+  },
+  {
+    "name": "far fa-external-link-alt"
+  },
+  {
+    "name": "far fa-external-link-square"
+  },
+  {
+    "name": "far fa-external-link-square-alt"
+  },
+  {
+    "name": "far fa-eye"
+  },
+  {
+    "name": "far fa-eye-dropper"
+  },
+  {
+    "name": "far fa-eye-evil"
+  },
+  {
+    "name": "far fa-eye-slash"
+  },
+  {
+    "name": "far fa-fan"
+  },
+  {
+    "name": "far fa-fan-table"
+  },
+  {
+    "name": "far fa-farm"
+  },
+  {
+    "name": "far fa-fast-backward"
+  },
+  {
+    "name": "far fa-fast-forward"
+  },
+  {
+    "name": "far fa-faucet"
+  },
+  {
+    "name": "far fa-faucet-drip"
+  },
+  {
+    "name": "far fa-fax"
+  },
+  {
+    "name": "far fa-feather"
+  },
+  {
+    "name": "far fa-feather-alt"
+  },
+  {
+    "name": "far fa-female"
+  },
+  {
+    "name": "far fa-field-hockey"
+  },
+  {
+    "name": "far fa-fighter-jet"
+  },
+  {
+    "name": "far fa-file"
+  },
+  {
+    "name": "far fa-file-alt"
+  },
+  {
+    "name": "far fa-file-archive"
+  },
+  {
+    "name": "far fa-file-audio"
+  },
+  {
+    "name": "far fa-file-certificate"
+  },
+  {
+    "name": "far fa-file-chart-line"
+  },
+  {
+    "name": "far fa-file-chart-pie"
+  },
+  {
+    "name": "far fa-file-check"
+  },
+  {
+    "name": "far fa-file-code"
+  },
+  {
+    "name": "far fa-file-contract"
+  },
+  {
+    "name": "far fa-file-csv"
+  },
+  {
+    "name": "far fa-file-download"
+  },
+  {
+    "name": "far fa-file-edit"
+  },
+  {
+    "name": "far fa-file-excel"
+  },
+  {
+    "name": "far fa-file-exclamation"
+  },
+  {
+    "name": "far fa-file-export"
+  },
+  {
+    "name": "far fa-file-image"
+  },
+  {
+    "name": "far fa-file-import"
+  },
+  {
+    "name": "far fa-file-invoice"
+  },
+  {
+    "name": "far fa-file-invoice-dollar"
+  },
+  {
+    "name": "far fa-file-medical"
+  },
+  {
+    "name": "far fa-file-medical-alt"
+  },
+  {
+    "name": "far fa-file-minus"
+  },
+  {
+    "name": "far fa-file-music"
+  },
+  {
+    "name": "far fa-file-pdf"
+  },
+  {
+    "name": "far fa-file-plus"
+  },
+  {
+    "name": "far fa-file-powerpoint"
+  },
+  {
+    "name": "far fa-file-prescription"
+  },
+  {
+    "name": "far fa-file-search"
+  },
+  {
+    "name": "far fa-file-signature"
+  },
+  {
+    "name": "far fa-file-spreadsheet"
+  },
+  {
+    "name": "far fa-file-times"
+  },
+  {
+    "name": "far fa-file-upload"
+  },
+  {
+    "name": "far fa-file-user"
+  },
+  {
+    "name": "far fa-file-video"
+  },
+  {
+    "name": "far fa-file-word"
+  },
+  {
+    "name": "far fa-files-medical"
+  },
+  {
+    "name": "far fa-fill"
+  },
+  {
+    "name": "far fa-fill-drip"
+  },
+  {
+    "name": "far fa-film"
+  },
+  {
+    "name": "far fa-film-alt"
+  },
+  {
+    "name": "far fa-film-canister"
+  },
+  {
+    "name": "far fa-filter"
+  },
+  {
+    "name": "far fa-fingerprint"
+  },
+  {
+    "name": "far fa-fire"
+  },
+  {
+    "name": "far fa-fire-alt"
+  },
+  {
+    "name": "far fa-fire-extinguisher"
+  },
+  {
+    "name": "far fa-fire-smoke"
+  },
+  {
+    "name": "far fa-fireplace"
+  },
+  {
+    "name": "far fa-first-aid"
+  },
+  {
+    "name": "far fa-fish"
+  },
+  {
+    "name": "far fa-fish-cooked"
+  },
+  {
+    "name": "far fa-fist-raised"
+  },
+  {
+    "name": "far fa-flag"
+  },
+  {
+    "name": "far fa-flag-alt"
+  },
+  {
+    "name": "far fa-flag-checkered"
+  },
+  {
+    "name": "far fa-flag-usa"
+  },
+  {
+    "name": "far fa-flame"
+  },
+  {
+    "name": "far fa-flashlight"
+  },
+  {
+    "name": "far fa-flask"
+  },
+  {
+    "name": "far fa-flask-poison"
+  },
+  {
+    "name": "far fa-flask-potion"
+  },
+  {
+    "name": "far fa-flower"
+  },
+  {
+    "name": "far fa-flower-daffodil"
+  },
+  {
+    "name": "far fa-flower-tulip"
+  },
+  {
+    "name": "far fa-flushed"
+  },
+  {
+    "name": "far fa-flute"
+  },
+  {
+    "name": "far fa-flux-capacitor"
+  },
+  {
+    "name": "far fa-fog"
+  },
+  {
+    "name": "far fa-folder"
+  },
+  {
+    "name": "far fa-folder-download"
+  },
+  {
+    "name": "far fa-folder-minus"
+  },
+  {
+    "name": "far fa-folder-open"
+  },
+  {
+    "name": "far fa-folder-plus"
+  },
+  {
+    "name": "far fa-folder-times"
+  },
+  {
+    "name": "far fa-folder-tree"
+  },
+  {
+    "name": "far fa-folder-upload"
+  },
+  {
+    "name": "far fa-folders"
+  },
+  {
+    "name": "far fa-font"
+  },
+  {
+    "name": "far fa-font-case"
+  },
+  {
+    "name": "far fa-football-ball"
+  },
+  {
+    "name": "far fa-football-helmet"
+  },
+  {
+    "name": "far fa-forklift"
+  },
+  {
+    "name": "far fa-forward"
+  },
+  {
+    "name": "far fa-fragile"
+  },
+  {
+    "name": "far fa-french-fries"
+  },
+  {
+    "name": "far fa-frog"
+  },
+  {
+    "name": "far fa-frosty-head"
+  },
+  {
+    "name": "far fa-frown"
+  },
+  {
+    "name": "far fa-frown-open"
+  },
+  {
+    "name": "far fa-function"
+  },
+  {
+    "name": "far fa-funnel-dollar"
+  },
+  {
+    "name": "far fa-futbol"
+  },
+  {
+    "name": "far fa-galaxy"
+  },
+  {
+    "name": "far fa-game-board"
+  },
+  {
+    "name": "far fa-game-board-alt"
+  },
+  {
+    "name": "far fa-game-console-handheld"
+  },
+  {
+    "name": "far fa-gamepad"
+  },
+  {
+    "name": "far fa-gamepad-alt"
+  },
+  {
+    "name": "far fa-garage"
+  },
+  {
+    "name": "far fa-garage-car"
+  },
+  {
+    "name": "far fa-garage-open"
+  },
+  {
+    "name": "far fa-gas-pump"
+  },
+  {
+    "name": "far fa-gas-pump-slash"
+  },
+  {
+    "name": "far fa-gavel"
+  },
+  {
+    "name": "far fa-gem"
+  },
+  {
+    "name": "far fa-genderless"
+  },
+  {
+    "name": "far fa-ghost"
+  },
+  {
+    "name": "far fa-gift"
+  },
+  {
+    "name": "far fa-gift-card"
+  },
+  {
+    "name": "far fa-gifts"
+  },
+  {
+    "name": "far fa-gingerbread-man"
+  },
+  {
+    "name": "far fa-glass"
+  },
+  {
+    "name": "far fa-glass-champagne"
+  },
+  {
+    "name": "far fa-glass-cheers"
+  },
+  {
+    "name": "far fa-glass-citrus"
+  },
+  {
+    "name": "far fa-glass-martini"
+  },
+  {
+    "name": "far fa-glass-martini-alt"
+  },
+  {
+    "name": "far fa-glass-whiskey"
+  },
+  {
+    "name": "far fa-glass-whiskey-rocks"
+  },
+  {
+    "name": "far fa-glasses"
+  },
+  {
+    "name": "far fa-glasses-alt"
+  },
+  {
+    "name": "far fa-globe"
+  },
+  {
+    "name": "far fa-globe-africa"
+  },
+  {
+    "name": "far fa-globe-americas"
+  },
+  {
+    "name": "far fa-globe-asia"
+  },
+  {
+    "name": "far fa-globe-europe"
+  },
+  {
+    "name": "far fa-globe-snow"
+  },
+  {
+    "name": "far fa-globe-stand"
+  },
+  {
+    "name": "far fa-golf-ball"
+  },
+  {
+    "name": "far fa-golf-club"
+  },
+  {
+    "name": "far fa-gopuram"
+  },
+  {
+    "name": "far fa-graduation-cap"
+  },
+  {
+    "name": "far fa-gramophone"
+  },
+  {
+    "name": "far fa-greater-than"
+  },
+  {
+    "name": "far fa-greater-than-equal"
+  },
+  {
+    "name": "far fa-grimace"
+  },
+  {
+    "name": "far fa-grin"
+  },
+  {
+    "name": "far fa-grin-alt"
+  },
+  {
+    "name": "far fa-grin-beam"
+  },
+  {
+    "name": "far fa-grin-beam-sweat"
+  },
+  {
+    "name": "far fa-grin-hearts"
+  },
+  {
+    "name": "far fa-grin-squint"
+  },
+  {
+    "name": "far fa-grin-squint-tears"
+  },
+  {
+    "name": "far fa-grin-stars"
+  },
+  {
+    "name": "far fa-grin-tears"
+  },
+  {
+    "name": "far fa-grin-tongue"
+  },
+  {
+    "name": "far fa-grin-tongue-squint"
+  },
+  {
+    "name": "far fa-grin-tongue-wink"
+  },
+  {
+    "name": "far fa-grin-wink"
+  },
+  {
+    "name": "far fa-grip-horizontal"
+  },
+  {
+    "name": "far fa-grip-lines"
+  },
+  {
+    "name": "far fa-grip-lines-vertical"
+  },
+  {
+    "name": "far fa-grip-vertical"
+  },
+  {
+    "name": "far fa-guitar"
+  },
+  {
+    "name": "far fa-guitar-electric"
+  },
+  {
+    "name": "far fa-guitars"
+  },
+  {
+    "name": "far fa-h-square"
+  },
+  {
+    "name": "far fa-h1"
+  },
+  {
+    "name": "far fa-h2"
+  },
+  {
+    "name": "far fa-h3"
+  },
+  {
+    "name": "far fa-h4"
+  },
+  {
+    "name": "far fa-hamburger"
+  },
+  {
+    "name": "far fa-hammer"
+  },
+  {
+    "name": "far fa-hammer-war"
+  },
+  {
+    "name": "far fa-hamsa"
+  },
+  {
+    "name": "far fa-hand-heart"
+  },
+  {
+    "name": "far fa-hand-holding"
+  },
+  {
+    "name": "far fa-hand-holding-box"
+  },
+  {
+    "name": "far fa-hand-holding-heart"
+  },
+  {
+    "name": "far fa-hand-holding-magic"
+  },
+  {
+    "name": "far fa-hand-holding-medical"
+  },
+  {
+    "name": "far fa-hand-holding-seedling"
+  },
+  {
+    "name": "far fa-hand-holding-usd"
+  },
+  {
+    "name": "far fa-hand-holding-water"
+  },
+  {
+    "name": "far fa-hand-lizard"
+  },
+  {
+    "name": "far fa-hand-middle-finger"
+  },
+  {
+    "name": "far fa-hand-paper"
+  },
+  {
+    "name": "far fa-hand-peace"
+  },
+  {
+    "name": "far fa-hand-point-down"
+  },
+  {
+    "name": "far fa-hand-point-left"
+  },
+  {
+    "name": "far fa-hand-point-right"
+  },
+  {
+    "name": "far fa-hand-point-up"
+  },
+  {
+    "name": "far fa-hand-pointer"
+  },
+  {
+    "name": "far fa-hand-receiving"
+  },
+  {
+    "name": "far fa-hand-rock"
+  },
+  {
+    "name": "far fa-hand-scissors"
+  },
+  {
+    "name": "far fa-hand-sparkles"
+  },
+  {
+    "name": "far fa-hand-spock"
+  },
+  {
+    "name": "far fa-hands"
+  },
+  {
+    "name": "far fa-hands-heart"
+  },
+  {
+    "name": "far fa-hands-helping"
+  },
+  {
+    "name": "far fa-hands-usd"
+  },
+  {
+    "name": "far fa-hands-wash"
+  },
+  {
+    "name": "far fa-handshake"
+  },
+  {
+    "name": "far fa-handshake-alt"
+  },
+  {
+    "name": "far fa-handshake-alt-slash"
+  },
+  {
+    "name": "far fa-handshake-slash"
+  },
+  {
+    "name": "far fa-hanukiah"
+  },
+  {
+    "name": "far fa-hard-hat"
+  },
+  {
+    "name": "far fa-hashtag"
+  },
+  {
+    "name": "far fa-hat-chef"
+  },
+  {
+    "name": "far fa-hat-cowboy"
+  },
+  {
+    "name": "far fa-hat-cowboy-side"
+  },
+  {
+    "name": "far fa-hat-santa"
+  },
+  {
+    "name": "far fa-hat-winter"
+  },
+  {
+    "name": "far fa-hat-witch"
+  },
+  {
+    "name": "far fa-hat-wizard"
+  },
+  {
+    "name": "far fa-hdd"
+  },
+  {
+    "name": "far fa-head-side"
+  },
+  {
+    "name": "far fa-head-side-brain"
+  },
+  {
+    "name": "far fa-head-side-cough"
+  },
+  {
+    "name": "far fa-head-side-cough-slash"
+  },
+  {
+    "name": "far fa-head-side-headphones"
+  },
+  {
+    "name": "far fa-head-side-mask"
+  },
+  {
+    "name": "far fa-head-side-medical"
+  },
+  {
+    "name": "far fa-head-side-virus"
+  },
+  {
+    "name": "far fa-head-vr"
+  },
+  {
+    "name": "far fa-heading"
+  },
+  {
+    "name": "far fa-headphones"
+  },
+  {
+    "name": "far fa-headphones-alt"
+  },
+  {
+    "name": "far fa-headset"
+  },
+  {
+    "name": "far fa-heart"
+  },
+  {
+    "name": "far fa-heart-broken"
+  },
+  {
+    "name": "far fa-heart-circle"
+  },
+  {
+    "name": "far fa-heart-rate"
+  },
+  {
+    "name": "far fa-heart-square"
+  },
+  {
+    "name": "far fa-heartbeat"
+  },
+  {
+    "name": "far fa-heat"
+  },
+  {
+    "name": "far fa-helicopter"
+  },
+  {
+    "name": "far fa-helmet-battle"
+  },
+  {
+    "name": "far fa-hexagon"
+  },
+  {
+    "name": "far fa-highlighter"
+  },
+  {
+    "name": "far fa-hiking"
+  },
+  {
+    "name": "far fa-hippo"
+  },
+  {
+    "name": "far fa-history"
+  },
+  {
+    "name": "far fa-hockey-mask"
+  },
+  {
+    "name": "far fa-hockey-puck"
+  },
+  {
+    "name": "far fa-hockey-sticks"
+  },
+  {
+    "name": "far fa-holly-berry"
+  },
+  {
+    "name": "far fa-home"
+  },
+  {
+    "name": "far fa-home-alt"
+  },
+  {
+    "name": "far fa-home-heart"
+  },
+  {
+    "name": "far fa-home-lg"
+  },
+  {
+    "name": "far fa-home-lg-alt"
+  },
+  {
+    "name": "far fa-hood-cloak"
+  },
+  {
+    "name": "far fa-horizontal-rule"
+  },
+  {
+    "name": "far fa-horse"
+  },
+  {
+    "name": "far fa-horse-head"
+  },
+  {
+    "name": "far fa-horse-saddle"
+  },
+  {
+    "name": "far fa-hospital"
+  },
+  {
+    "name": "far fa-hospital-alt"
+  },
+  {
+    "name": "far fa-hospital-symbol"
+  },
+  {
+    "name": "far fa-hospital-user"
+  },
+  {
+    "name": "far fa-hospitals"
+  },
+  {
+    "name": "far fa-hot-tub"
+  },
+  {
+    "name": "far fa-hotdog"
+  },
+  {
+    "name": "far fa-hotel"
+  },
+  {
+    "name": "far fa-hourglass"
+  },
+  {
+    "name": "far fa-hourglass-end"
+  },
+  {
+    "name": "far fa-hourglass-half"
+  },
+  {
+    "name": "far fa-hourglass-start"
+  },
+  {
+    "name": "far fa-house"
+  },
+  {
+    "name": "far fa-house-damage"
+  },
+  {
+    "name": "far fa-house-day"
+  },
+  {
+    "name": "far fa-house-flood"
+  },
+  {
+    "name": "far fa-house-leave"
+  },
+  {
+    "name": "far fa-house-night"
+  },
+  {
+    "name": "far fa-house-return"
+  },
+  {
+    "name": "far fa-house-signal"
+  },
+  {
+    "name": "far fa-house-user"
+  },
+  {
+    "name": "far fa-hryvnia"
+  },
+  {
+    "name": "far fa-humidity"
+  },
+  {
+    "name": "far fa-hurricane"
+  },
+  {
+    "name": "far fa-i-cursor"
+  },
+  {
+    "name": "far fa-ice-cream"
+  },
+  {
+    "name": "far fa-ice-skate"
+  },
+  {
+    "name": "far fa-icicles"
+  },
+  {
+    "name": "far fa-icons"
+  },
+  {
+    "name": "far fa-icons-alt"
+  },
+  {
+    "name": "far fa-id-badge"
+  },
+  {
+    "name": "far fa-id-card"
+  },
+  {
+    "name": "far fa-id-card-alt"
+  },
+  {
+    "name": "far fa-igloo"
+  },
+  {
+    "name": "far fa-image"
+  },
+  {
+    "name": "far fa-image-polaroid"
+  },
+  {
+    "name": "far fa-images"
+  },
+  {
+    "name": "far fa-inbox"
+  },
+  {
+    "name": "far fa-inbox-in"
+  },
+  {
+    "name": "far fa-inbox-out"
+  },
+  {
+    "name": "far fa-indent"
+  },
+  {
+    "name": "far fa-industry"
+  },
+  {
+    "name": "far fa-industry-alt"
+  },
+  {
+    "name": "far fa-infinity"
+  },
+  {
+    "name": "far fa-info"
+  },
+  {
+    "name": "far fa-info-circle"
+  },
+  {
+    "name": "far fa-info-square"
+  },
+  {
+    "name": "far fa-inhaler"
+  },
+  {
+    "name": "far fa-integral"
+  },
+  {
+    "name": "far fa-intersection"
+  },
+  {
+    "name": "far fa-inventory"
+  },
+  {
+    "name": "far fa-island-tropical"
+  },
+  {
+    "name": "far fa-italic"
+  },
+  {
+    "name": "far fa-jack-o-lantern"
+  },
+  {
+    "name": "far fa-jedi"
+  },
+  {
+    "name": "far fa-joint"
+  },
+  {
+    "name": "far fa-journal-whills"
+  },
+  {
+    "name": "far fa-joystick"
+  },
+  {
+    "name": "far fa-jug"
+  },
+  {
+    "name": "far fa-kaaba"
+  },
+  {
+    "name": "far fa-kazoo"
+  },
+  {
+    "name": "far fa-kerning"
+  },
+  {
+    "name": "far fa-key"
+  },
+  {
+    "name": "far fa-key-skeleton"
+  },
+  {
+    "name": "far fa-keyboard"
+  },
+  {
+    "name": "far fa-keynote"
+  },
+  {
+    "name": "far fa-khanda"
+  },
+  {
+    "name": "far fa-kidneys"
+  },
+  {
+    "name": "far fa-kiss"
+  },
+  {
+    "name": "far fa-kiss-beam"
+  },
+  {
+    "name": "far fa-kiss-wink-heart"
+  },
+  {
+    "name": "far fa-kite"
+  },
+  {
+    "name": "far fa-kiwi-bird"
+  },
+  {
+    "name": "far fa-knife-kitchen"
+  },
+  {
+    "name": "far fa-lambda"
+  },
+  {
+    "name": "far fa-lamp"
+  },
+  {
+    "name": "far fa-lamp-desk"
+  },
+  {
+    "name": "far fa-lamp-floor"
+  },
+  {
+    "name": "far fa-landmark"
+  },
+  {
+    "name": "far fa-landmark-alt"
+  },
+  {
+    "name": "far fa-language"
+  },
+  {
+    "name": "far fa-laptop"
+  },
+  {
+    "name": "far fa-laptop-code"
+  },
+  {
+    "name": "far fa-laptop-house"
+  },
+  {
+    "name": "far fa-laptop-medical"
+  },
+  {
+    "name": "far fa-lasso"
+  },
+  {
+    "name": "far fa-laugh"
+  },
+  {
+    "name": "far fa-laugh-beam"
+  },
+  {
+    "name": "far fa-laugh-squint"
+  },
+  {
+    "name": "far fa-laugh-wink"
+  },
+  {
+    "name": "far fa-layer-group"
+  },
+  {
+    "name": "far fa-layer-minus"
+  },
+  {
+    "name": "far fa-layer-plus"
+  },
+  {
+    "name": "far fa-leaf"
+  },
+  {
+    "name": "far fa-leaf-heart"
+  },
+  {
+    "name": "far fa-leaf-maple"
+  },
+  {
+    "name": "far fa-leaf-oak"
+  },
+  {
+    "name": "far fa-lemon"
+  },
+  {
+    "name": "far fa-less-than"
+  },
+  {
+    "name": "far fa-less-than-equal"
+  },
+  {
+    "name": "far fa-level-down"
+  },
+  {
+    "name": "far fa-level-down-alt"
+  },
+  {
+    "name": "far fa-level-up"
+  },
+  {
+    "name": "far fa-level-up-alt"
+  },
+  {
+    "name": "far fa-life-ring"
+  },
+  {
+    "name": "far fa-light-ceiling"
+  },
+  {
+    "name": "far fa-light-switch"
+  },
+  {
+    "name": "far fa-light-switch-off"
+  },
+  {
+    "name": "far fa-light-switch-on"
+  },
+  {
+    "name": "far fa-lightbulb"
+  },
+  {
+    "name": "far fa-lightbulb-dollar"
+  },
+  {
+    "name": "far fa-lightbulb-exclamation"
+  },
+  {
+    "name": "far fa-lightbulb-on"
+  },
+  {
+    "name": "far fa-lightbulb-slash"
+  },
+  {
+    "name": "far fa-lights-holiday"
+  },
+  {
+    "name": "far fa-line-columns"
+  },
+  {
+    "name": "far fa-line-height"
+  },
+  {
+    "name": "far fa-link"
+  },
+  {
+    "name": "far fa-lips"
+  },
+  {
+    "name": "far fa-lira-sign"
+  },
+  {
+    "name": "far fa-list"
+  },
+  {
+    "name": "far fa-list-alt"
+  },
+  {
+    "name": "far fa-list-music"
+  },
+  {
+    "name": "far fa-list-ol"
+  },
+  {
+    "name": "far fa-list-ul"
+  },
+  {
+    "name": "far fa-location"
+  },
+  {
+    "name": "far fa-location-arrow"
+  },
+  {
+    "name": "far fa-location-circle"
+  },
+  {
+    "name": "far fa-location-slash"
+  },
+  {
+    "name": "far fa-lock"
+  },
+  {
+    "name": "far fa-lock-alt"
+  },
+  {
+    "name": "far fa-lock-open"
+  },
+  {
+    "name": "far fa-lock-open-alt"
+  },
+  {
+    "name": "far fa-long-arrow-alt-down"
+  },
+  {
+    "name": "far fa-long-arrow-alt-left"
+  },
+  {
+    "name": "far fa-long-arrow-alt-right"
+  },
+  {
+    "name": "far fa-long-arrow-alt-up"
+  },
+  {
+    "name": "far fa-long-arrow-down"
+  },
+  {
+    "name": "far fa-long-arrow-left"
+  },
+  {
+    "name": "far fa-long-arrow-right"
+  },
+  {
+    "name": "far fa-long-arrow-up"
+  },
+  {
+    "name": "far fa-loveseat"
+  },
+  {
+    "name": "far fa-low-vision"
+  },
+  {
+    "name": "far fa-luchador"
+  },
+  {
+    "name": "far fa-luggage-cart"
+  },
+  {
+    "name": "far fa-lungs"
+  },
+  {
+    "name": "far fa-lungs-virus"
+  },
+  {
+    "name": "far fa-mace"
+  },
+  {
+    "name": "far fa-magic"
+  },
+  {
+    "name": "far fa-magnet"
+  },
+  {
+    "name": "far fa-mail-bulk"
+  },
+  {
+    "name": "far fa-mailbox"
+  },
+  {
+    "name": "far fa-male"
+  },
+  {
+    "name": "far fa-mandolin"
+  },
+  {
+    "name": "far fa-map"
+  },
+  {
+    "name": "far fa-map-marked"
+  },
+  {
+    "name": "far fa-map-marked-alt"
+  },
+  {
+    "name": "far fa-map-marker"
+  },
+  {
+    "name": "far fa-map-marker-alt"
+  },
+  {
+    "name": "far fa-map-marker-alt-slash"
+  },
+  {
+    "name": "far fa-map-marker-check"
+  },
+  {
+    "name": "far fa-map-marker-edit"
+  },
+  {
+    "name": "far fa-map-marker-exclamation"
+  },
+  {
+    "name": "far fa-map-marker-minus"
+  },
+  {
+    "name": "far fa-map-marker-plus"
+  },
+  {
+    "name": "far fa-map-marker-question"
+  },
+  {
+    "name": "far fa-map-marker-slash"
+  },
+  {
+    "name": "far fa-map-marker-smile"
+  },
+  {
+    "name": "far fa-map-marker-times"
+  },
+  {
+    "name": "far fa-map-pin"
+  },
+  {
+    "name": "far fa-map-signs"
+  },
+  {
+    "name": "far fa-marker"
+  },
+  {
+    "name": "far fa-mars"
+  },
+  {
+    "name": "far fa-mars-double"
+  },
+  {
+    "name": "far fa-mars-stroke"
+  },
+  {
+    "name": "far fa-mars-stroke-h"
+  },
+  {
+    "name": "far fa-mars-stroke-v"
+  },
+  {
+    "name": "far fa-mask"
+  },
+  {
+    "name": "far fa-meat"
+  },
+  {
+    "name": "far fa-medal"
+  },
+  {
+    "name": "far fa-medkit"
+  },
+  {
+    "name": "far fa-megaphone"
+  },
+  {
+    "name": "far fa-meh"
+  },
+  {
+    "name": "far fa-meh-blank"
+  },
+  {
+    "name": "far fa-meh-rolling-eyes"
+  },
+  {
+    "name": "far fa-memory"
+  },
+  {
+    "name": "far fa-menorah"
+  },
+  {
+    "name": "far fa-mercury"
+  },
+  {
+    "name": "far fa-meteor"
+  },
+  {
+    "name": "far fa-microchip"
+  },
+  {
+    "name": "far fa-microphone"
+  },
+  {
+    "name": "far fa-microphone-alt"
+  },
+  {
+    "name": "far fa-microphone-alt-slash"
+  },
+  {
+    "name": "far fa-microphone-slash"
+  },
+  {
+    "name": "far fa-microphone-stand"
+  },
+  {
+    "name": "far fa-microscope"
+  },
+  {
+    "name": "far fa-microwave"
+  },
+  {
+    "name": "far fa-mind-share"
+  },
+  {
+    "name": "far fa-minus"
+  },
+  {
+    "name": "far fa-minus-circle"
+  },
+  {
+    "name": "far fa-minus-hexagon"
+  },
+  {
+    "name": "far fa-minus-octagon"
+  },
+  {
+    "name": "far fa-minus-square"
+  },
+  {
+    "name": "far fa-mistletoe"
+  },
+  {
+    "name": "far fa-mitten"
+  },
+  {
+    "name": "far fa-mobile"
+  },
+  {
+    "name": "far fa-mobile-alt"
+  },
+  {
+    "name": "far fa-mobile-android"
+  },
+  {
+    "name": "far fa-mobile-android-alt"
+  },
+  {
+    "name": "far fa-money-bill"
+  },
+  {
+    "name": "far fa-money-bill-alt"
+  },
+  {
+    "name": "far fa-money-bill-wave"
+  },
+  {
+    "name": "far fa-money-bill-wave-alt"
+  },
+  {
+    "name": "far fa-money-check"
+  },
+  {
+    "name": "far fa-money-check-alt"
+  },
+  {
+    "name": "far fa-money-check-edit"
+  },
+  {
+    "name": "far fa-money-check-edit-alt"
+  },
+  {
+    "name": "far fa-monitor-heart-rate"
+  },
+  {
+    "name": "far fa-monkey"
+  },
+  {
+    "name": "far fa-monument"
+  },
+  {
+    "name": "far fa-moon"
+  },
+  {
+    "name": "far fa-moon-cloud"
+  },
+  {
+    "name": "far fa-moon-stars"
+  },
+  {
+    "name": "far fa-mortar-pestle"
+  },
+  {
+    "name": "far fa-mosque"
+  },
+  {
+    "name": "far fa-motorcycle"
+  },
+  {
+    "name": "far fa-mountain"
+  },
+  {
+    "name": "far fa-mountains"
+  },
+  {
+    "name": "far fa-mouse"
+  },
+  {
+    "name": "far fa-mouse-alt"
+  },
+  {
+    "name": "far fa-mouse-pointer"
+  },
+  {
+    "name": "far fa-mp3-player"
+  },
+  {
+    "name": "far fa-mug"
+  },
+  {
+    "name": "far fa-mug-hot"
+  },
+  {
+    "name": "far fa-mug-marshmallows"
+  },
+  {
+    "name": "far fa-mug-tea"
+  },
+  {
+    "name": "far fa-music"
+  },
+  {
+    "name": "far fa-music-alt"
+  },
+  {
+    "name": "far fa-music-alt-slash"
+  },
+  {
+    "name": "far fa-music-slash"
+  },
+  {
+    "name": "far fa-narwhal"
+  },
+  {
+    "name": "far fa-network-wired"
+  },
+  {
+    "name": "far fa-neuter"
+  },
+  {
+    "name": "far fa-newspaper"
+  },
+  {
+    "name": "far fa-not-equal"
+  },
+  {
+    "name": "far fa-notes-medical"
+  },
+  {
+    "name": "far fa-object-group"
+  },
+  {
+    "name": "far fa-object-ungroup"
+  },
+  {
+    "name": "far fa-octagon"
+  },
+  {
+    "name": "far fa-oil-can"
+  },
+  {
+    "name": "far fa-oil-temp"
+  },
+  {
+    "name": "far fa-om"
+  },
+  {
+    "name": "far fa-omega"
+  },
+  {
+    "name": "far fa-ornament"
+  },
+  {
+    "name": "far fa-otter"
+  },
+  {
+    "name": "far fa-outdent"
+  },
+  {
+    "name": "far fa-outlet"
+  },
+  {
+    "name": "far fa-oven"
+  },
+  {
+    "name": "far fa-overline"
+  },
+  {
+    "name": "far fa-page-break"
+  },
+  {
+    "name": "far fa-pager"
+  },
+  {
+    "name": "far fa-paint-brush"
+  },
+  {
+    "name": "far fa-paint-brush-alt"
+  },
+  {
+    "name": "far fa-paint-roller"
+  },
+  {
+    "name": "far fa-palette"
+  },
+  {
+    "name": "far fa-pallet"
+  },
+  {
+    "name": "far fa-pallet-alt"
+  },
+  {
+    "name": "far fa-paper-plane"
+  },
+  {
+    "name": "far fa-paperclip"
+  },
+  {
+    "name": "far fa-parachute-box"
+  },
+  {
+    "name": "far fa-paragraph"
+  },
+  {
+    "name": "far fa-paragraph-rtl"
+  },
+  {
+    "name": "far fa-parking"
+  },
+  {
+    "name": "far fa-parking-circle"
+  },
+  {
+    "name": "far fa-parking-circle-slash"
+  },
+  {
+    "name": "far fa-parking-slash"
+  },
+  {
+    "name": "far fa-passport"
+  },
+  {
+    "name": "far fa-pastafarianism"
+  },
+  {
+    "name": "far fa-paste"
+  },
+  {
+    "name": "far fa-pause"
+  },
+  {
+    "name": "far fa-pause-circle"
+  },
+  {
+    "name": "far fa-paw"
+  },
+  {
+    "name": "far fa-paw-alt"
+  },
+  {
+    "name": "far fa-paw-claws"
+  },
+  {
+    "name": "far fa-peace"
+  },
+  {
+    "name": "far fa-pegasus"
+  },
+  {
+    "name": "far fa-pen"
+  },
+  {
+    "name": "far fa-pen-alt"
+  },
+  {
+    "name": "far fa-pen-fancy"
+  },
+  {
+    "name": "far fa-pen-nib"
+  },
+  {
+    "name": "far fa-pen-square"
+  },
+  {
+    "name": "far fa-pencil"
+  },
+  {
+    "name": "far fa-pencil-alt"
+  },
+  {
+    "name": "far fa-pencil-paintbrush"
+  },
+  {
+    "name": "far fa-pencil-ruler"
+  },
+  {
+    "name": "far fa-pennant"
+  },
+  {
+    "name": "far fa-people-arrows"
+  },
+  {
+    "name": "far fa-people-carry"
+  },
+  {
+    "name": "far fa-pepper-hot"
+  },
+  {
+    "name": "far fa-percent"
+  },
+  {
+    "name": "far fa-percentage"
+  },
+  {
+    "name": "far fa-person-booth"
+  },
+  {
+    "name": "far fa-person-carry"
+  },
+  {
+    "name": "far fa-person-dolly"
+  },
+  {
+    "name": "far fa-person-dolly-empty"
+  },
+  {
+    "name": "far fa-person-sign"
+  },
+  {
+    "name": "far fa-phone"
+  },
+  {
+    "name": "far fa-phone-alt"
+  },
+  {
+    "name": "far fa-phone-laptop"
+  },
+  {
+    "name": "far fa-phone-office"
+  },
+  {
+    "name": "far fa-phone-plus"
+  },
+  {
+    "name": "far fa-phone-rotary"
+  },
+  {
+    "name": "far fa-phone-slash"
+  },
+  {
+    "name": "far fa-phone-square"
+  },
+  {
+    "name": "far fa-phone-square-alt"
+  },
+  {
+    "name": "far fa-phone-volume"
+  },
+  {
+    "name": "far fa-photo-video"
+  },
+  {
+    "name": "far fa-pi"
+  },
+  {
+    "name": "far fa-piano"
+  },
+  {
+    "name": "far fa-piano-keyboard"
+  },
+  {
+    "name": "far fa-pie"
+  },
+  {
+    "name": "far fa-pig"
+  },
+  {
+    "name": "far fa-piggy-bank"
+  },
+  {
+    "name": "far fa-pills"
+  },
+  {
+    "name": "far fa-pizza"
+  },
+  {
+    "name": "far fa-pizza-slice"
+  },
+  {
+    "name": "far fa-place-of-worship"
+  },
+  {
+    "name": "far fa-plane"
+  },
+  {
+    "name": "far fa-plane-alt"
+  },
+  {
+    "name": "far fa-plane-arrival"
+  },
+  {
+    "name": "far fa-plane-departure"
+  },
+  {
+    "name": "far fa-plane-slash"
+  },
+  {
+    "name": "far fa-planet-moon"
+  },
+  {
+    "name": "far fa-planet-ringed"
+  },
+  {
+    "name": "far fa-play"
+  },
+  {
+    "name": "far fa-play-circle"
+  },
+  {
+    "name": "far fa-plug"
+  },
+  {
+    "name": "far fa-plus"
+  },
+  {
+    "name": "far fa-plus-circle"
+  },
+  {
+    "name": "far fa-plus-hexagon"
+  },
+  {
+    "name": "far fa-plus-octagon"
+  },
+  {
+    "name": "far fa-plus-square"
+  },
+  {
+    "name": "far fa-podcast"
+  },
+  {
+    "name": "far fa-podium"
+  },
+  {
+    "name": "far fa-podium-star"
+  },
+  {
+    "name": "far fa-police-box"
+  },
+  {
+    "name": "far fa-poll"
+  },
+  {
+    "name": "far fa-poll-h"
+  },
+  {
+    "name": "far fa-poll-people"
+  },
+  {
+    "name": "far fa-poo"
+  },
+  {
+    "name": "far fa-poo-storm"
+  },
+  {
+    "name": "far fa-poop"
+  },
+  {
+    "name": "far fa-popcorn"
+  },
+  {
+    "name": "far fa-portal-enter"
+  },
+  {
+    "name": "far fa-portal-exit"
+  },
+  {
+    "name": "far fa-portrait"
+  },
+  {
+    "name": "far fa-pound-sign"
+  },
+  {
+    "name": "far fa-power-off"
+  },
+  {
+    "name": "far fa-pray"
+  },
+  {
+    "name": "far fa-praying-hands"
+  },
+  {
+    "name": "far fa-prescription"
+  },
+  {
+    "name": "far fa-prescription-bottle"
+  },
+  {
+    "name": "far fa-prescription-bottle-alt"
+  },
+  {
+    "name": "far fa-presentation"
+  },
+  {
+    "name": "far fa-print"
+  },
+  {
+    "name": "far fa-print-search"
+  },
+  {
+    "name": "far fa-print-slash"
+  },
+  {
+    "name": "far fa-procedures"
+  },
+  {
+    "name": "far fa-project-diagram"
+  },
+  {
+    "name": "far fa-projector"
+  },
+  {
+    "name": "far fa-pump-medical"
+  },
+  {
+    "name": "far fa-pump-soap"
+  },
+  {
+    "name": "far fa-pumpkin"
+  },
+  {
+    "name": "far fa-puzzle-piece"
+  },
+  {
+    "name": "far fa-qrcode"
+  },
+  {
+    "name": "far fa-question"
+  },
+  {
+    "name": "far fa-question-circle"
+  },
+  {
+    "name": "far fa-question-square"
+  },
+  {
+    "name": "far fa-quidditch"
+  },
+  {
+    "name": "far fa-quote-left"
+  },
+  {
+    "name": "far fa-quote-right"
+  },
+  {
+    "name": "far fa-quran"
+  },
+  {
+    "name": "far fa-rabbit"
+  },
+  {
+    "name": "far fa-rabbit-fast"
+  },
+  {
+    "name": "far fa-racquet"
+  },
+  {
+    "name": "far fa-radar"
+  },
+  {
+    "name": "far fa-radiation"
+  },
+  {
+    "name": "far fa-radiation-alt"
+  },
+  {
+    "name": "far fa-radio"
+  },
+  {
+    "name": "far fa-radio-alt"
+  },
+  {
+    "name": "far fa-rainbow"
+  },
+  {
+    "name": "far fa-raindrops"
+  },
+  {
+    "name": "far fa-ram"
+  },
+  {
+    "name": "far fa-ramp-loading"
+  },
+  {
+    "name": "far fa-random"
+  },
+  {
+    "name": "far fa-raygun"
+  },
+  {
+    "name": "far fa-receipt"
+  },
+  {
+    "name": "far fa-record-vinyl"
+  },
+  {
+    "name": "far fa-rectangle-landscape"
+  },
+  {
+    "name": "far fa-rectangle-portrait"
+  },
+  {
+    "name": "far fa-rectangle-wide"
+  },
+  {
+    "name": "far fa-recycle"
+  },
+  {
+    "name": "far fa-redo"
+  },
+  {
+    "name": "far fa-redo-alt"
+  },
+  {
+    "name": "far fa-refrigerator"
+  },
+  {
+    "name": "far fa-registered"
+  },
+  {
+    "name": "far fa-remove-format"
+  },
+  {
+    "name": "far fa-repeat"
+  },
+  {
+    "name": "far fa-repeat-1"
+  },
+  {
+    "name": "far fa-repeat-1-alt"
+  },
+  {
+    "name": "far fa-repeat-alt"
+  },
+  {
+    "name": "far fa-reply"
+  },
+  {
+    "name": "far fa-reply-all"
+  },
+  {
+    "name": "far fa-republican"
+  },
+  {
+    "name": "far fa-restroom"
+  },
+  {
+    "name": "far fa-retweet"
+  },
+  {
+    "name": "far fa-retweet-alt"
+  },
+  {
+    "name": "far fa-ribbon"
+  },
+  {
+    "name": "far fa-ring"
+  },
+  {
+    "name": "far fa-rings-wedding"
+  },
+  {
+    "name": "far fa-road"
+  },
+  {
+    "name": "far fa-robot"
+  },
+  {
+    "name": "far fa-rocket"
+  },
+  {
+    "name": "far fa-rocket-launch"
+  },
+  {
+    "name": "far fa-route"
+  },
+  {
+    "name": "far fa-route-highway"
+  },
+  {
+    "name": "far fa-route-interstate"
+  },
+  {
+    "name": "far fa-router"
+  },
+  {
+    "name": "far fa-rss"
+  },
+  {
+    "name": "far fa-rss-square"
+  },
+  {
+    "name": "far fa-ruble-sign"
+  },
+  {
+    "name": "far fa-ruler"
+  },
+  {
+    "name": "far fa-ruler-combined"
+  },
+  {
+    "name": "far fa-ruler-horizontal"
+  },
+  {
+    "name": "far fa-ruler-triangle"
+  },
+  {
+    "name": "far fa-ruler-vertical"
+  },
+  {
+    "name": "far fa-running"
+  },
+  {
+    "name": "far fa-rupee-sign"
+  },
+  {
+    "name": "far fa-rv"
+  },
+  {
+    "name": "far fa-sack"
+  },
+  {
+    "name": "far fa-sack-dollar"
+  },
+  {
+    "name": "far fa-sad-cry"
+  },
+  {
+    "name": "far fa-sad-tear"
+  },
+  {
+    "name": "far fa-salad"
+  },
+  {
+    "name": "far fa-sandwich"
+  },
+  {
+    "name": "far fa-satellite"
+  },
+  {
+    "name": "far fa-satellite-dish"
+  },
+  {
+    "name": "far fa-sausage"
+  },
+  {
+    "name": "far fa-save"
+  },
+  {
+    "name": "far fa-sax-hot"
+  },
+  {
+    "name": "far fa-saxophone"
+  },
+  {
+    "name": "far fa-scalpel"
+  },
+  {
+    "name": "far fa-scalpel-path"
+  },
+  {
+    "name": "far fa-scanner"
+  },
+  {
+    "name": "far fa-scanner-image"
+  },
+  {
+    "name": "far fa-scanner-keyboard"
+  },
+  {
+    "name": "far fa-scanner-touchscreen"
+  },
+  {
+    "name": "far fa-scarecrow"
+  },
+  {
+    "name": "far fa-scarf"
+  },
+  {
+    "name": "far fa-school"
+  },
+  {
+    "name": "far fa-screwdriver"
+  },
+  {
+    "name": "far fa-scroll"
+  },
+  {
+    "name": "far fa-scroll-old"
+  },
+  {
+    "name": "far fa-scrubber"
+  },
+  {
+    "name": "far fa-scythe"
+  },
+  {
+    "name": "far fa-sd-card"
+  },
+  {
+    "name": "far fa-search"
+  },
+  {
+    "name": "far fa-search-dollar"
+  },
+  {
+    "name": "far fa-search-location"
+  },
+  {
+    "name": "far fa-search-minus"
+  },
+  {
+    "name": "far fa-search-plus"
+  },
+  {
+    "name": "far fa-seedling"
+  },
+  {
+    "name": "far fa-send-back"
+  },
+  {
+    "name": "far fa-send-backward"
+  },
+  {
+    "name": "far fa-sensor"
+  },
+  {
+    "name": "far fa-sensor-alert"
+  },
+  {
+    "name": "far fa-sensor-fire"
+  },
+  {
+    "name": "far fa-sensor-on"
+  },
+  {
+    "name": "far fa-sensor-smoke"
+  },
+  {
+    "name": "far fa-server"
+  },
+  {
+    "name": "far fa-shapes"
+  },
+  {
+    "name": "far fa-share"
+  },
+  {
+    "name": "far fa-share-all"
+  },
+  {
+    "name": "far fa-share-alt"
+  },
+  {
+    "name": "far fa-share-alt-square"
+  },
+  {
+    "name": "far fa-share-square"
+  },
+  {
+    "name": "far fa-sheep"
+  },
+  {
+    "name": "far fa-shekel-sign"
+  },
+  {
+    "name": "far fa-shield"
+  },
+  {
+    "name": "far fa-shield-alt"
+  },
+  {
+    "name": "far fa-shield-check"
+  },
+  {
+    "name": "far fa-shield-cross"
+  },
+  {
+    "name": "far fa-shield-virus"
+  },
+  {
+    "name": "far fa-ship"
+  },
+  {
+    "name": "far fa-shipping-fast"
+  },
+  {
+    "name": "far fa-shipping-timed"
+  },
+  {
+    "name": "far fa-shish-kebab"
+  },
+  {
+    "name": "far fa-shoe-prints"
+  },
+  {
+    "name": "far fa-shopping-bag"
+  },
+  {
+    "name": "far fa-shopping-basket"
+  },
+  {
+    "name": "far fa-shopping-cart"
+  },
+  {
+    "name": "far fa-shovel"
+  },
+  {
+    "name": "far fa-shovel-snow"
+  },
+  {
+    "name": "far fa-shower"
+  },
+  {
+    "name": "far fa-shredder"
+  },
+  {
+    "name": "far fa-shuttle-van"
+  },
+  {
+    "name": "far fa-shuttlecock"
+  },
+  {
+    "name": "far fa-sickle"
+  },
+  {
+    "name": "far fa-sigma"
+  },
+  {
+    "name": "far fa-sign"
+  },
+  {
+    "name": "far fa-sign-in"
+  },
+  {
+    "name": "far fa-sign-in-alt"
+  },
+  {
+    "name": "far fa-sign-language"
+  },
+  {
+    "name": "far fa-sign-out"
+  },
+  {
+    "name": "far fa-sign-out-alt"
+  },
+  {
+    "name": "far fa-signal"
+  },
+  {
+    "name": "far fa-signal-1"
+  },
+  {
+    "name": "far fa-signal-2"
+  },
+  {
+    "name": "far fa-signal-3"
+  },
+  {
+    "name": "far fa-signal-4"
+  },
+  {
+    "name": "far fa-signal-alt"
+  },
+  {
+    "name": "far fa-signal-alt-1"
+  },
+  {
+    "name": "far fa-signal-alt-2"
+  },
+  {
+    "name": "far fa-signal-alt-3"
+  },
+  {
+    "name": "far fa-signal-alt-slash"
+  },
+  {
+    "name": "far fa-signal-slash"
+  },
+  {
+    "name": "far fa-signal-stream"
+  },
+  {
+    "name": "far fa-signature"
+  },
+  {
+    "name": "far fa-sim-card"
+  },
+  {
+    "name": "far fa-sink"
+  },
+  {
+    "name": "far fa-siren"
+  },
+  {
+    "name": "far fa-siren-on"
+  },
+  {
+    "name": "far fa-sitemap"
+  },
+  {
+    "name": "far fa-skating"
+  },
+  {
+    "name": "far fa-skeleton"
+  },
+  {
+    "name": "far fa-ski-jump"
+  },
+  {
+    "name": "far fa-ski-lift"
+  },
+  {
+    "name": "far fa-skiing"
+  },
+  {
+    "name": "far fa-skiing-nordic"
+  },
+  {
+    "name": "far fa-skull"
+  },
+  {
+    "name": "far fa-skull-cow"
+  },
+  {
+    "name": "far fa-skull-crossbones"
+  },
+  {
+    "name": "far fa-slash"
+  },
+  {
+    "name": "far fa-sledding"
+  },
+  {
+    "name": "far fa-sleigh"
+  },
+  {
+    "name": "far fa-sliders-h"
+  },
+  {
+    "name": "far fa-sliders-h-square"
+  },
+  {
+    "name": "far fa-sliders-v"
+  },
+  {
+    "name": "far fa-sliders-v-square"
+  },
+  {
+    "name": "far fa-smile"
+  },
+  {
+    "name": "far fa-smile-beam"
+  },
+  {
+    "name": "far fa-smile-plus"
+  },
+  {
+    "name": "far fa-smile-wink"
+  },
+  {
+    "name": "far fa-smog"
+  },
+  {
+    "name": "far fa-smoke"
+  },
+  {
+    "name": "far fa-smoking"
+  },
+  {
+    "name": "far fa-smoking-ban"
+  },
+  {
+    "name": "far fa-sms"
+  },
+  {
+    "name": "far fa-snake"
+  },
+  {
+    "name": "far fa-snooze"
+  },
+  {
+    "name": "far fa-snow-blowing"
+  },
+  {
+    "name": "far fa-snowboarding"
+  },
+  {
+    "name": "far fa-snowflake"
+  },
+  {
+    "name": "far fa-snowflakes"
+  },
+  {
+    "name": "far fa-snowman"
+  },
+  {
+    "name": "far fa-snowmobile"
+  },
+  {
+    "name": "far fa-snowplow"
+  },
+  {
+    "name": "far fa-soap"
+  },
+  {
+    "name": "far fa-socks"
+  },
+  {
+    "name": "far fa-solar-panel"
+  },
+  {
+    "name": "far fa-solar-system"
+  },
+  {
+    "name": "far fa-sort"
+  },
+  {
+    "name": "far fa-sort-alpha-down"
+  },
+  {
+    "name": "far fa-sort-alpha-down-alt"
+  },
+  {
+    "name": "far fa-sort-alpha-up"
+  },
+  {
+    "name": "far fa-sort-alpha-up-alt"
+  },
+  {
+    "name": "far fa-sort-alt"
+  },
+  {
+    "name": "far fa-sort-amount-down"
+  },
+  {
+    "name": "far fa-sort-amount-down-alt"
+  },
+  {
+    "name": "far fa-sort-amount-up"
+  },
+  {
+    "name": "far fa-sort-amount-up-alt"
+  },
+  {
+    "name": "far fa-sort-circle"
+  },
+  {
+    "name": "far fa-sort-circle-down"
+  },
+  {
+    "name": "far fa-sort-circle-up"
+  },
+  {
+    "name": "far fa-sort-down"
+  },
+  {
+    "name": "far fa-sort-numeric-down"
+  },
+  {
+    "name": "far fa-sort-numeric-down-alt"
+  },
+  {
+    "name": "far fa-sort-numeric-up"
+  },
+  {
+    "name": "far fa-sort-numeric-up-alt"
+  },
+  {
+    "name": "far fa-sort-shapes-down"
+  },
+  {
+    "name": "far fa-sort-shapes-down-alt"
+  },
+  {
+    "name": "far fa-sort-shapes-up"
+  },
+  {
+    "name": "far fa-sort-shapes-up-alt"
+  },
+  {
+    "name": "far fa-sort-size-down"
+  },
+  {
+    "name": "far fa-sort-size-down-alt"
+  },
+  {
+    "name": "far fa-sort-size-up"
+  },
+  {
+    "name": "far fa-sort-size-up-alt"
+  },
+  {
+    "name": "far fa-sort-up"
+  },
+  {
+    "name": "far fa-soup"
+  },
+  {
+    "name": "far fa-spa"
+  },
+  {
+    "name": "far fa-space-shuttle"
+  },
+  {
+    "name": "far fa-space-station-moon"
+  },
+  {
+    "name": "far fa-space-station-moon-alt"
+  },
+  {
+    "name": "far fa-spade"
+  },
+  {
+    "name": "far fa-sparkles"
+  },
+  {
+    "name": "far fa-speaker"
+  },
+  {
+    "name": "far fa-speakers"
+  },
+  {
+    "name": "far fa-spell-check"
+  },
+  {
+    "name": "far fa-spider"
+  },
+  {
+    "name": "far fa-spider-black-widow"
+  },
+  {
+    "name": "far fa-spider-web"
+  },
+  {
+    "name": "far fa-spinner"
+  },
+  {
+    "name": "far fa-spinner-third"
+  },
+  {
+    "name": "far fa-splotch"
+  },
+  {
+    "name": "far fa-spray-can"
+  },
+  {
+    "name": "far fa-sprinkler"
+  },
+  {
+    "name": "far fa-square"
+  },
+  {
+    "name": "far fa-square-full"
+  },
+  {
+    "name": "far fa-square-root"
+  },
+  {
+    "name": "far fa-square-root-alt"
+  },
+  {
+    "name": "far fa-squirrel"
+  },
+  {
+    "name": "far fa-staff"
+  },
+  {
+    "name": "far fa-stamp"
+  },
+  {
+    "name": "far fa-star"
+  },
+  {
+    "name": "far fa-star-and-crescent"
+  },
+  {
+    "name": "far fa-star-christmas"
+  },
+  {
+    "name": "far fa-star-exclamation"
+  },
+  {
+    "name": "far fa-star-half"
+  },
+  {
+    "name": "far fa-star-half-alt"
+  },
+  {
+    "name": "far fa-star-of-david"
+  },
+  {
+    "name": "far fa-star-of-life"
+  },
+  {
+    "name": "far fa-star-shooting"
+  },
+  {
+    "name": "far fa-starfighter"
+  },
+  {
+    "name": "far fa-starfighter-alt"
+  },
+  {
+    "name": "far fa-stars"
+  },
+  {
+    "name": "far fa-starship"
+  },
+  {
+    "name": "far fa-starship-freighter"
+  },
+  {
+    "name": "far fa-steak"
+  },
+  {
+    "name": "far fa-steering-wheel"
+  },
+  {
+    "name": "far fa-step-backward"
+  },
+  {
+    "name": "far fa-step-forward"
+  },
+  {
+    "name": "far fa-stethoscope"
+  },
+  {
+    "name": "far fa-sticky-note"
+  },
+  {
+    "name": "far fa-stocking"
+  },
+  {
+    "name": "far fa-stomach"
+  },
+  {
+    "name": "far fa-stop"
+  },
+  {
+    "name": "far fa-stop-circle"
+  },
+  {
+    "name": "far fa-stopwatch"
+  },
+  {
+    "name": "far fa-stopwatch-20"
+  },
+  {
+    "name": "far fa-store"
+  },
+  {
+    "name": "far fa-store-alt"
+  },
+  {
+    "name": "far fa-store-alt-slash"
+  },
+  {
+    "name": "far fa-store-slash"
+  },
+  {
+    "name": "far fa-stream"
+  },
+  {
+    "name": "far fa-street-view"
+  },
+  {
+    "name": "far fa-stretcher"
+  },
+  {
+    "name": "far fa-strikethrough"
+  },
+  {
+    "name": "far fa-stroopwafel"
+  },
+  {
+    "name": "far fa-subscript"
+  },
+  {
+    "name": "far fa-subway"
+  },
+  {
+    "name": "far fa-suitcase"
+  },
+  {
+    "name": "far fa-suitcase-rolling"
+  },
+  {
+    "name": "far fa-sun"
+  },
+  {
+    "name": "far fa-sun-cloud"
+  },
+  {
+    "name": "far fa-sun-dust"
+  },
+  {
+    "name": "far fa-sun-haze"
+  },
+  {
+    "name": "far fa-sunglasses"
+  },
+  {
+    "name": "far fa-sunrise"
+  },
+  {
+    "name": "far fa-sunset"
+  },
+  {
+    "name": "far fa-superscript"
+  },
+  {
+    "name": "far fa-surprise"
+  },
+  {
+    "name": "far fa-swatchbook"
+  },
+  {
+    "name": "far fa-swimmer"
+  },
+  {
+    "name": "far fa-swimming-pool"
+  },
+  {
+    "name": "far fa-sword"
+  },
+  {
+    "name": "far fa-sword-laser"
+  },
+  {
+    "name": "far fa-sword-laser-alt"
+  },
+  {
+    "name": "far fa-swords"
+  },
+  {
+    "name": "far fa-swords-laser"
+  },
+  {
+    "name": "far fa-synagogue"
+  },
+  {
+    "name": "far fa-sync"
+  },
+  {
+    "name": "far fa-sync-alt"
+  },
+  {
+    "name": "far fa-syringe"
+  },
+  {
+    "name": "far fa-table"
+  },
+  {
+    "name": "far fa-table-tennis"
+  },
+  {
+    "name": "far fa-tablet"
+  },
+  {
+    "name": "far fa-tablet-alt"
+  },
+  {
+    "name": "far fa-tablet-android"
+  },
+  {
+    "name": "far fa-tablet-android-alt"
+  },
+  {
+    "name": "far fa-tablet-rugged"
+  },
+  {
+    "name": "far fa-tablets"
+  },
+  {
+    "name": "far fa-tachometer"
+  },
+  {
+    "name": "far fa-tachometer-alt"
+  },
+  {
+    "name": "far fa-tachometer-alt-average"
+  },
+  {
+    "name": "far fa-tachometer-alt-fast"
+  },
+  {
+    "name": "far fa-tachometer-alt-fastest"
+  },
+  {
+    "name": "far fa-tachometer-alt-slow"
+  },
+  {
+    "name": "far fa-tachometer-alt-slowest"
+  },
+  {
+    "name": "far fa-tachometer-average"
+  },
+  {
+    "name": "far fa-tachometer-fast"
+  },
+  {
+    "name": "far fa-tachometer-fastest"
+  },
+  {
+    "name": "far fa-tachometer-slow"
+  },
+  {
+    "name": "far fa-tachometer-slowest"
+  },
+  {
+    "name": "far fa-taco"
+  },
+  {
+    "name": "far fa-tag"
+  },
+  {
+    "name": "far fa-tags"
+  },
+  {
+    "name": "far fa-tally"
+  },
+  {
+    "name": "far fa-tanakh"
+  },
+  {
+    "name": "far fa-tape"
+  },
+  {
+    "name": "far fa-tasks"
+  },
+  {
+    "name": "far fa-tasks-alt"
+  },
+  {
+    "name": "far fa-taxi"
+  },
+  {
+    "name": "far fa-teeth"
+  },
+  {
+    "name": "far fa-teeth-open"
+  },
+  {
+    "name": "far fa-telescope"
+  },
+  {
+    "name": "far fa-temperature-down"
+  },
+  {
+    "name": "far fa-temperature-frigid"
+  },
+  {
+    "name": "far fa-temperature-high"
+  },
+  {
+    "name": "far fa-temperature-hot"
+  },
+  {
+    "name": "far fa-temperature-low"
+  },
+  {
+    "name": "far fa-temperature-up"
+  },
+  {
+    "name": "far fa-tenge"
+  },
+  {
+    "name": "far fa-tennis-ball"
+  },
+  {
+    "name": "far fa-terminal"
+  },
+  {
+    "name": "far fa-text"
+  },
+  {
+    "name": "far fa-text-height"
+  },
+  {
+    "name": "far fa-text-size"
+  },
+  {
+    "name": "far fa-text-width"
+  },
+  {
+    "name": "far fa-th"
+  },
+  {
+    "name": "far fa-th-large"
+  },
+  {
+    "name": "far fa-th-list"
+  },
+  {
+    "name": "far fa-theater-masks"
+  },
+  {
+    "name": "far fa-thermometer"
+  },
+  {
+    "name": "far fa-thermometer-empty"
+  },
+  {
+    "name": "far fa-thermometer-full"
+  },
+  {
+    "name": "far fa-thermometer-half"
+  },
+  {
+    "name": "far fa-thermometer-quarter"
+  },
+  {
+    "name": "far fa-thermometer-three-quarters"
+  },
+  {
+    "name": "far fa-theta"
+  },
+  {
+    "name": "far fa-thumbs-down"
+  },
+  {
+    "name": "far fa-thumbs-up"
+  },
+  {
+    "name": "far fa-thumbtack"
+  },
+  {
+    "name": "far fa-thunderstorm"
+  },
+  {
+    "name": "far fa-thunderstorm-moon"
+  },
+  {
+    "name": "far fa-thunderstorm-sun"
+  },
+  {
+    "name": "far fa-ticket"
+  },
+  {
+    "name": "far fa-ticket-alt"
+  },
+  {
+    "name": "far fa-tilde"
+  },
+  {
+    "name": "far fa-times"
+  },
+  {
+    "name": "far fa-times-circle"
+  },
+  {
+    "name": "far fa-times-hexagon"
+  },
+  {
+    "name": "far fa-times-octagon"
+  },
+  {
+    "name": "far fa-times-square"
+  },
+  {
+    "name": "far fa-tint"
+  },
+  {
+    "name": "far fa-tint-slash"
+  },
+  {
+    "name": "far fa-tire"
+  },
+  {
+    "name": "far fa-tire-flat"
+  },
+  {
+    "name": "far fa-tire-pressure-warning"
+  },
+  {
+    "name": "far fa-tire-rugged"
+  },
+  {
+    "name": "far fa-tired"
+  },
+  {
+    "name": "far fa-toggle-off"
+  },
+  {
+    "name": "far fa-toggle-on"
+  },
+  {
+    "name": "far fa-toilet"
+  },
+  {
+    "name": "far fa-toilet-paper"
+  },
+  {
+    "name": "far fa-toilet-paper-alt"
+  },
+  {
+    "name": "far fa-toilet-paper-slash"
+  },
+  {
+    "name": "far fa-tombstone"
+  },
+  {
+    "name": "far fa-tombstone-alt"
+  },
+  {
+    "name": "far fa-toolbox"
+  },
+  {
+    "name": "far fa-tools"
+  },
+  {
+    "name": "far fa-tooth"
+  },
+  {
+    "name": "far fa-toothbrush"
+  },
+  {
+    "name": "far fa-torah"
+  },
+  {
+    "name": "far fa-torii-gate"
+  },
+  {
+    "name": "far fa-tornado"
+  },
+  {
+    "name": "far fa-tractor"
+  },
+  {
+    "name": "far fa-trademark"
+  },
+  {
+    "name": "far fa-traffic-cone"
+  },
+  {
+    "name": "far fa-traffic-light"
+  },
+  {
+    "name": "far fa-traffic-light-go"
+  },
+  {
+    "name": "far fa-traffic-light-slow"
+  },
+  {
+    "name": "far fa-traffic-light-stop"
+  },
+  {
+    "name": "far fa-trailer"
+  },
+  {
+    "name": "far fa-train"
+  },
+  {
+    "name": "far fa-tram"
+  },
+  {
+    "name": "far fa-transgender"
+  },
+  {
+    "name": "far fa-transgender-alt"
+  },
+  {
+    "name": "far fa-transporter"
+  },
+  {
+    "name": "far fa-transporter-1"
+  },
+  {
+    "name": "far fa-transporter-2"
+  },
+  {
+    "name": "far fa-transporter-3"
+  },
+  {
+    "name": "far fa-transporter-empty"
+  },
+  {
+    "name": "far fa-trash"
+  },
+  {
+    "name": "far fa-trash-alt"
+  },
+  {
+    "name": "far fa-trash-restore"
+  },
+  {
+    "name": "far fa-trash-restore-alt"
+  },
+  {
+    "name": "far fa-trash-undo"
+  },
+  {
+    "name": "far fa-trash-undo-alt"
+  },
+  {
+    "name": "far fa-treasure-chest"
+  },
+  {
+    "name": "far fa-tree"
+  },
+  {
+    "name": "far fa-tree-alt"
+  },
+  {
+    "name": "far fa-tree-christmas"
+  },
+  {
+    "name": "far fa-tree-decorated"
+  },
+  {
+    "name": "far fa-tree-large"
+  },
+  {
+    "name": "far fa-tree-palm"
+  },
+  {
+    "name": "far fa-trees"
+  },
+  {
+    "name": "far fa-triangle"
+  },
+  {
+    "name": "far fa-triangle-music"
+  },
+  {
+    "name": "far fa-trophy"
+  },
+  {
+    "name": "far fa-trophy-alt"
+  },
+  {
+    "name": "far fa-truck"
+  },
+  {
+    "name": "far fa-truck-container"
+  },
+  {
+    "name": "far fa-truck-couch"
+  },
+  {
+    "name": "far fa-truck-loading"
+  },
+  {
+    "name": "far fa-truck-monster"
+  },
+  {
+    "name": "far fa-truck-moving"
+  },
+  {
+    "name": "far fa-truck-pickup"
+  },
+  {
+    "name": "far fa-truck-plow"
+  },
+  {
+    "name": "far fa-truck-ramp"
+  },
+  {
+    "name": "far fa-trumpet"
+  },
+  {
+    "name": "far fa-tshirt"
+  },
+  {
+    "name": "far fa-tty"
+  },
+  {
+    "name": "far fa-turkey"
+  },
+  {
+    "name": "far fa-turntable"
+  },
+  {
+    "name": "far fa-turtle"
+  },
+  {
+    "name": "far fa-tv"
+  },
+  {
+    "name": "far fa-tv-alt"
+  },
+  {
+    "name": "far fa-tv-music"
+  },
+  {
+    "name": "far fa-tv-retro"
+  },
+  {
+    "name": "far fa-typewriter"
+  },
+  {
+    "name": "far fa-ufo"
+  },
+  {
+    "name": "far fa-ufo-beam"
+  },
+  {
+    "name": "far fa-umbrella"
+  },
+  {
+    "name": "far fa-umbrella-beach"
+  },
+  {
+    "name": "far fa-underline"
+  },
+  {
+    "name": "far fa-undo"
+  },
+  {
+    "name": "far fa-undo-alt"
+  },
+  {
+    "name": "far fa-unicorn"
+  },
+  {
+    "name": "far fa-union"
+  },
+  {
+    "name": "far fa-universal-access"
+  },
+  {
+    "name": "far fa-university"
+  },
+  {
+    "name": "far fa-unlink"
+  },
+  {
+    "name": "far fa-unlock"
+  },
+  {
+    "name": "far fa-unlock-alt"
+  },
+  {
+    "name": "far fa-upload"
+  },
+  {
+    "name": "far fa-usb-drive"
+  },
+  {
+    "name": "far fa-usd-circle"
+  },
+  {
+    "name": "far fa-usd-square"
+  },
+  {
+    "name": "far fa-user"
+  },
+  {
+    "name": "far fa-user-alien"
+  },
+  {
+    "name": "far fa-user-alt"
+  },
+  {
+    "name": "far fa-user-alt-slash"
+  },
+  {
+    "name": "far fa-user-astronaut"
+  },
+  {
+    "name": "far fa-user-chart"
+  },
+  {
+    "name": "far fa-user-check"
+  },
+  {
+    "name": "far fa-user-circle"
+  },
+  {
+    "name": "far fa-user-clock"
+  },
+  {
+    "name": "far fa-user-cog"
+  },
+  {
+    "name": "far fa-user-cowboy"
+  },
+  {
+    "name": "far fa-user-crown"
+  },
+  {
+    "name": "far fa-user-edit"
+  },
+  {
+    "name": "far fa-user-friends"
+  },
+  {
+    "name": "far fa-user-graduate"
+  },
+  {
+    "name": "far fa-user-hard-hat"
+  },
+  {
+    "name": "far fa-user-headset"
+  },
+  {
+    "name": "far fa-user-injured"
+  },
+  {
+    "name": "far fa-user-lock"
+  },
+  {
+    "name": "far fa-user-md"
+  },
+  {
+    "name": "far fa-user-md-chat"
+  },
+  {
+    "name": "far fa-user-minus"
+  },
+  {
+    "name": "far fa-user-music"
+  },
+  {
+    "name": "far fa-user-ninja"
+  },
+  {
+    "name": "far fa-user-nurse"
+  },
+  {
+    "name": "far fa-user-plus"
+  },
+  {
+    "name": "far fa-user-robot"
+  },
+  {
+    "name": "far fa-user-secret"
+  },
+  {
+    "name": "far fa-user-shield"
+  },
+  {
+    "name": "far fa-user-slash"
+  },
+  {
+    "name": "far fa-user-tag"
+  },
+  {
+    "name": "far fa-user-tie"
+  },
+  {
+    "name": "far fa-user-times"
+  },
+  {
+    "name": "far fa-user-unlock"
+  },
+  {
+    "name": "far fa-user-visor"
+  },
+  {
+    "name": "far fa-users"
+  },
+  {
+    "name": "far fa-users-class"
+  },
+  {
+    "name": "far fa-users-cog"
+  },
+  {
+    "name": "far fa-users-crown"
+  },
+  {
+    "name": "far fa-users-medical"
+  },
+  {
+    "name": "far fa-users-slash"
+  },
+  {
+    "name": "far fa-utensil-fork"
+  },
+  {
+    "name": "far fa-utensil-knife"
+  },
+  {
+    "name": "far fa-utensil-spoon"
+  },
+  {
+    "name": "far fa-utensils"
+  },
+  {
+    "name": "far fa-utensils-alt"
+  },
+  {
+    "name": "far fa-vacuum"
+  },
+  {
+    "name": "far fa-vacuum-robot"
+  },
+  {
+    "name": "far fa-value-absolute"
+  },
+  {
+    "name": "far fa-vector-square"
+  },
+  {
+    "name": "far fa-venus"
+  },
+  {
+    "name": "far fa-venus-double"
+  },
+  {
+    "name": "far fa-venus-mars"
+  },
+  {
+    "name": "far fa-vest"
+  },
+  {
+    "name": "far fa-vest-patches"
+  },
+  {
+    "name": "far fa-vhs"
+  },
+  {
+    "name": "far fa-vial"
+  },
+  {
+    "name": "far fa-vials"
+  },
+  {
+    "name": "far fa-video"
+  },
+  {
+    "name": "far fa-video-plus"
+  },
+  {
+    "name": "far fa-video-slash"
+  },
+  {
+    "name": "far fa-vihara"
+  },
+  {
+    "name": "far fa-violin"
+  },
+  {
+    "name": "far fa-virus"
+  },
+  {
+    "name": "far fa-virus-slash"
+  },
+  {
+    "name": "far fa-viruses"
+  },
+  {
+    "name": "far fa-voicemail"
+  },
+  {
+    "name": "far fa-volcano"
+  },
+  {
+    "name": "far fa-volleyball-ball"
+  },
+  {
+    "name": "far fa-volume"
+  },
+  {
+    "name": "far fa-volume-down"
+  },
+  {
+    "name": "far fa-volume-mute"
+  },
+  {
+    "name": "far fa-volume-off"
+  },
+  {
+    "name": "far fa-volume-slash"
+  },
+  {
+    "name": "far fa-volume-up"
+  },
+  {
+    "name": "far fa-vote-nay"
+  },
+  {
+    "name": "far fa-vote-yea"
+  },
+  {
+    "name": "far fa-vr-cardboard"
+  },
+  {
+    "name": "far fa-wagon-covered"
+  },
+  {
+    "name": "far fa-walker"
+  },
+  {
+    "name": "far fa-walkie-talkie"
+  },
+  {
+    "name": "far fa-walking"
+  },
+  {
+    "name": "far fa-wallet"
+  },
+  {
+    "name": "far fa-wand"
+  },
+  {
+    "name": "far fa-wand-magic"
+  },
+  {
+    "name": "far fa-warehouse"
+  },
+  {
+    "name": "far fa-warehouse-alt"
+  },
+  {
+    "name": "far fa-washer"
+  },
+  {
+    "name": "far fa-watch"
+  },
+  {
+    "name": "far fa-watch-calculator"
+  },
+  {
+    "name": "far fa-watch-fitness"
+  },
+  {
+    "name": "far fa-water"
+  },
+  {
+    "name": "far fa-water-lower"
+  },
+  {
+    "name": "far fa-water-rise"
+  },
+  {
+    "name": "far fa-wave-sine"
+  },
+  {
+    "name": "far fa-wave-square"
+  },
+  {
+    "name": "far fa-wave-triangle"
+  },
+  {
+    "name": "far fa-waveform"
+  },
+  {
+    "name": "far fa-waveform-path"
+  },
+  {
+    "name": "far fa-webcam"
+  },
+  {
+    "name": "far fa-webcam-slash"
+  },
+  {
+    "name": "far fa-weight"
+  },
+  {
+    "name": "far fa-weight-hanging"
+  },
+  {
+    "name": "far fa-whale"
+  },
+  {
+    "name": "far fa-wheat"
+  },
+  {
+    "name": "far fa-wheelchair"
+  },
+  {
+    "name": "far fa-whistle"
+  },
+  {
+    "name": "far fa-wifi"
+  },
+  {
+    "name": "far fa-wifi-1"
+  },
+  {
+    "name": "far fa-wifi-2"
+  },
+  {
+    "name": "far fa-wifi-slash"
+  },
+  {
+    "name": "far fa-wind"
+  },
+  {
+    "name": "far fa-wind-turbine"
+  },
+  {
+    "name": "far fa-wind-warning"
+  },
+  {
+    "name": "far fa-window"
+  },
+  {
+    "name": "far fa-window-alt"
+  },
+  {
+    "name": "far fa-window-close"
+  },
+  {
+    "name": "far fa-window-frame"
+  },
+  {
+    "name": "far fa-window-frame-open"
+  },
+  {
+    "name": "far fa-window-maximize"
+  },
+  {
+    "name": "far fa-window-minimize"
+  },
+  {
+    "name": "far fa-window-restore"
+  },
+  {
+    "name": "far fa-windsock"
+  },
+  {
+    "name": "far fa-wine-bottle"
+  },
+  {
+    "name": "far fa-wine-glass"
+  },
+  {
+    "name": "far fa-wine-glass-alt"
+  },
+  {
+    "name": "far fa-won-sign"
+  },
+  {
+    "name": "far fa-wreath"
+  },
+  {
+    "name": "far fa-wrench"
+  },
+  {
+    "name": "far fa-x-ray"
+  },
+  {
+    "name": "far fa-yen-sign"
+  },
+  {
+    "name": "far fa-yin-yang"
+  }
+]

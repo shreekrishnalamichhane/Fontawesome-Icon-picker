@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo</title>
+
+  <link href="https://cdn.jsdelivr.net/gh/hung1001/font-awesome-pro@4cac1a6/css/all.css" rel="stylesheet"
+    type="text/css" />
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="../dist/css/fontawesome-iconpicker.min.css">
+
+</head>
+
+<body>
+  <div class="container h-100 pt-5">
+
+    <p>For the performance reason, the demo icon picker only contains the <b>fad</b> class icons. You can use different
+      classes js files from <b><i>/dist</i></b> folder.</p>
+    <!-- Form demo from https://getbootstrap.com/docs/4.3/components/forms/ -->
+
+    <form class="pt-5 ">
+      <div class="form-group">
+        <label for="inputGrp">Pick an Icon</label>
+        <input type="text" class="form-control" id="inputGrp" aria-describedby="" placeholder="Click here..">
+        <small id="" class="form-text text-muted">Click in the input.</small>
+      </div>
+      <div class="form-group">
+        <label for="inputGrp2">Icon Picker with preview</label>
+        <div class="input-group input-group-merge">
+          <input class="form-control" placeholder="Click Here" type="text" id="inputGrp2">
+          <div class="input-group-append input-group-addon input-group-text ">
+            <i class=""></i>
+          </div>
+        </div>
+      </div>
+    </form>
+    <div class="pt-5">
+      <hr>
+    </div>
+    <h4 class="py-3">Class Category Data</h4>
+
+    All data from <a href="../data/all.json">here </a> (Count:7864 ) .
+    <div class="py-2"></div>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Class Name</th>
+          <th scope="col">Description</th>
+          <th scope="col">Count</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td><a href="../data/fas.json">fas</a></td>
+          <td>Solid Icons</td>
+          <td>1852</td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td><a href="../data/far.json">far</a></td>
+          <td>Regular Icons</td>
+          <td>1852</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td><a href="../data/fal.json">fal</a></td>
+          <td>Light Icons</td>
+          <td>1852</td>
+        </tr>
+        <tr>
+          <th scope="row">4</th>
+          <td><a href="../data/fad.json">fad</a></td>
+          <td>Duotone Icons</td>
+          <td>1852</td>
+        </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td><a href="../data/fab.json">fab</a></td>
+          <td>-</td>
+          <td>456</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+  integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+  crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="../dist/js/fontawesome-iconpicker-fad-fab.min.js"></script>
+
+<script>
+  $('#inputGrp').iconpicker();
+  $('#inputGrp2').iconpicker();
+</script>
+
+</html>
